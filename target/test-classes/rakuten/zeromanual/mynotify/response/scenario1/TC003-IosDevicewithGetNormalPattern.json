@@ -1,0 +1,17 @@
+{
+  "Body": {
+    "device": [
+      {
+        "deviceToken": "7d196b4f6d626982fdb1af46fb8f0b2ba4e9cec058103e3cc0added161722e38",
+        "pushType": 0
+      },
+      {
+        "deviceToken": "7d196b4f6d626982fdb1af46fb8f0b2ba4e9cec058103e3cc0added161722e39",
+        "pushType": 0
+      }
+    ]
+  },
+  "Header": {
+    "Status": "Success"
+  }
+}

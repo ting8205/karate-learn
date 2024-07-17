@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="rakuten.zeromanual.provider_api.ProviderapiRunner" time="9.056" tests="9" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="MS932"/>
+    <property name="java.class.path" value="C:\Users\os-tingting.liu\Downloads\test-automation-karate-feature-extent-report-yanni\target\test-classes;C:\Users\os-tingting.liu\Downloads\test-automation-karate-feature-extent-report-yanni\target\classes;C:\Users\os-tingting.liu\.m2\repository\com\intuit\karate\karate-junit5\1.4.1\karate-junit5-1.4.1.jar;C:\Users\os-tingting.liu\.m2\repository\com\intuit\karate\karate-core\1.4.1\karate-core-1.4.1.jar;C:\Users\os-tingting.liu\.m2\repository\org\graalvm\js\js-scriptengine\22.3.3\js-scriptengine-22.3.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\graalvm\sdk\graal-sdk\22.3.3\graal-sdk-22.3.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\graalvm\js\js\22.3.3\js-22.3.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\graalvm\regex\regex\22.3.3\regex-22.3.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\graalvm\truffle\truffle-api\22.3.3\truffle-api-22.3.3.jar;C:\Users\os-tingting.liu\.m2\repository\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;C:\Users\os-tingting.liu\.m2\repository\org\thymeleaf\thymeleaf\3.1.2.RELEASE\thymeleaf-3.1.2.RELEASE.jar;C:\Users\os-tingting.liu\.m2\repository\ognl\ognl\3.3.4\ognl-3.3.4.jar;C:\Users\os-tingting.liu\.m2\repository\org\javassist\javassist\3.29.0-GA\javassist-3.29.0-GA.jar;C:\Users\os-tingting.liu\.m2\repository\org\attoparser\attoparser\2.0.7.RELEASE\attoparser-2.0.7.RELEASE.jar;C:\Users\os-tingting.liu\.m2\repository\org\unbescape\unbescape\1.1.6.RELEASE\unbescape-1.1.6.RELEASE.jar;C:\Users\os-tingting.liu\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar;C:\Users\os-tingting.liu\.m2\repository\com\linecorp\armeria\armeria\1.25.2\armeria-1.25.2.jar;C:\Users\os-tingting.liu\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.15.2\jackson-core-2.15.2.jar;C:\Users\os-tingting.liu\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.15.2\jackson-annotations-2.15.2.jar;C:\Users\os-tingting.liu\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.15.2\jackson-databind-2.15.2.jar;C:\Users\os-tingting.liu\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jdk8\2.15.2\jackson-datatype-jdk8-2.15.2.jar;C:\Users\os-tingting.liu\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.15.2\jackson-datatype-jsr310-2.15.2.jar;C:\Users\os-tingting.liu\.m2\repository\io\micrometer\micrometer-core\1.11.3\micrometer-core-1.11.3.jar;C:\Users\os-tingting.liu\.m2\repository\io\micrometer\micrometer-commons\1.11.3\micrometer-commons-1.11.3.jar;C:\Users\os-tingting.liu\.m2\repository\io\micrometer\micrometer-observation\1.11.3\micrometer-observation-1.11.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\hdrhistogram\HdrHistogram\2.1.12\HdrHistogram-2.1.12.jar;C:\Users\os-tingting.liu\.m2\repository\org\latencyutils\LatencyUtils\2.0.3\LatencyUtils-2.0.3.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport\4.1.96.Final\netty-transport-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-common\4.1.96.Final\netty-common-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-buffer\4.1.96.Final\netty-buffer-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-resolver\4.1.96.Final\netty-resolver-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-codec-haproxy\4.1.96.Final\netty-codec-haproxy-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-codec\4.1.96.Final\netty-codec-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-codec-http2\4.1.96.Final\netty-codec-http2-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-handler\4.1.96.Final\netty-handler-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-codec-http\4.1.96.Final\netty-codec-http-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-resolver-dns\4.1.96.Final\netty-resolver-dns-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-codec-dns\4.1.96.Final\netty-codec-dns-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-handler-proxy\4.1.96.Final\netty-handler-proxy-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-codec-socks\4.1.96.Final\netty-codec-socks-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.96.Final\netty-transport-native-unix-common-4.1.96.Final-linux-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-epoll\4.1.96.Final\netty-transport-native-epoll-4.1.96.Final-linux-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.96.Final\netty-transport-native-unix-common-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-classes-epoll\4.1.96.Final\netty-transport-classes-epoll-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.96.Final\netty-transport-native-unix-common-4.1.96.Final-linux-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-epoll\4.1.96.Final\netty-transport-native-epoll-4.1.96.Final-linux-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.96.Final\netty-transport-native-unix-common-4.1.96.Final-osx-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.96.Final\netty-transport-native-kqueue-4.1.96.Final-osx-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-classes-kqueue\4.1.96.Final\netty-transport-classes-kqueue-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-resolver-dns-native-macos\4.1.96.Final\netty-resolver-dns-native-macos-4.1.96.Final-osx-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-resolver-dns-classes-macos\4.1.96.Final\netty-resolver-dns-classes-macos-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.96.Final\netty-transport-native-unix-common-4.1.96.Final-osx-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.96.Final\netty-transport-native-kqueue-4.1.96.Final-osx-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-resolver-dns-native-macos\4.1.96.Final\netty-resolver-dns-native-macos-4.1.96.Final-osx-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-tcnative-boringssl-static\2.0.61.Final\netty-tcnative-boringssl-static-2.0.61.Final-linux-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-tcnative-classes\2.0.61.Final\netty-tcnative-classes-2.0.61.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-tcnative-boringssl-static\2.0.61.Final\netty-tcnative-boringssl-static-2.0.61.Final-linux-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-tcnative-boringssl-static\2.0.61.Final\netty-tcnative-boringssl-static-2.0.61.Final-osx-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-tcnative-boringssl-static\2.0.61.Final\netty-tcnative-boringssl-static-2.0.61.Final-osx-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-tcnative-boringssl-static\2.0.61.Final\netty-tcnative-boringssl-static-2.0.61.Final-windows-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\com\aayushatharva\brotli4j\brotli4j\1.12.0\brotli4j-1.12.0.jar;C:\Users\os-tingting.liu\.m2\repository\com\aayushatharva\brotli4j\service\1.12.0\service-1.12.0.jar;C:\Users\os-tingting.liu\.m2\repository\com\aayushatharva\brotli4j\native-windows-x86_64\1.12.0\native-windows-x86_64-1.12.0.jar;C:\Users\os-tingting.liu\.m2\repository\org\apache\httpcomponents\httpclient\4.5.14\httpclient-4.5.14.jar;C:\Users\os-tingting.liu\.m2\repository\org\apache\httpcomponents\httpcore\4.4.16\httpcore-4.4.16.jar;C:\Users\os-tingting.liu\.m2\repository\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;C:\Users\os-tingting.liu\.m2\repository\ch\qos\logback\logback-classic\1.4.11\logback-classic-1.4.11.jar;C:\Users\os-tingting.liu\.m2\repository\ch\qos\logback\logback-core\1.4.11\logback-core-1.4.11.jar;C:\Users\os-tingting.liu\.m2\repository\org\slf4j\jcl-over-slf4j\2.0.9\jcl-over-slf4j-2.0.9.jar;C:\Users\os-tingting.liu\.m2\repository\org\antlr\antlr4-runtime\4.11.1\antlr4-runtime-4.11.1.jar;C:\Users\os-tingting.liu\.m2\repository\com\jayway\jsonpath\json-path\2.8.0\json-path-2.8.0.jar;C:\Users\os-tingting.liu\.m2\repository\net\minidev\json-smart\2.4.10\json-smart-2.4.10.jar;C:\Users\os-tingting.liu\.m2\repository\net\minidev\accessors-smart\2.4.9\accessors-smart-2.4.9.jar;C:\Users\os-tingting.liu\.m2\repository\org\ow2\asm\asm\9.3\asm-9.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\yaml\snakeyaml\2.0\snakeyaml-2.0.jar;C:\Users\os-tingting.liu\.m2\repository\de\siegmar\fastcsv\2.2.1\fastcsv-2.2.1.jar;C:\Users\os-tingting.liu\.m2\repository\info\picocli\picocli\4.7.1\picocli-4.7.1.jar;C:\Users\os-tingting.liu\.m2\repository\io\github\classgraph\classgraph\4.8.160\classgraph-4.8.160.jar;C:\Users\os-tingting.liu\.m2\repository\io\github\t12y\resemble\1.0.2\resemble-1.0.2.jar;C:\Users\os-tingting.liu\.m2\repository\io\github\t12y\ssim\1.0.0\ssim-1.0.0.jar;C:\Users\os-tingting.liu\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.3\junit-jupiter-api-5.9.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\os-tingting.liu\.m2\repository\org\junit\platform\junit-platform-commons\1.9.3\junit-platform-commons-1.9.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\os-tingting.liu\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.3\junit-jupiter-engine-5.9.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\junit\platform\junit-platform-engine\1.9.3\junit-platform-engine-1.9.3.jar;C:\Users\os-tingting.liu\.m2\repository\com\aventstack\extentreports\5.1.1\extentreports-5.1.1.jar;C:\Users\os-tingting.liu\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\os-tingting.liu\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\os-tingting.liu\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\os-tingting.liu\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\os-tingting.liu\.m2\repository\org\projectlombok\lombok\1.18.32\lombok-1.18.32.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Tokyo"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\os-tingting.liu\AppData\Local\Temp\surefire16302755397125680911\surefirebooter-20240620153613383_3.jar C:\Users\os-tingting.liu\AppData\Local\Temp\surefire16302755397125680911 2024-06-20T15-36-13_047-jvmRun1 surefire-20240620153613383_1tmp surefire_0-20240620153613383_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="test" value="ProviderapiRunner#scenario"/>
+    <property name="api.proxy" value="http://stg-proxy.travel.rakuten.co.jp:9050"/>
+    <property name="surefire.test.class.path" value="C:\Users\os-tingting.liu\Downloads\test-automation-karate-feature-extent-report-yanni\target\test-classes;C:\Users\os-tingting.liu\Downloads\test-automation-karate-feature-extent-report-yanni\target\classes;C:\Users\os-tingting.liu\.m2\repository\com\intuit\karate\karate-junit5\1.4.1\karate-junit5-1.4.1.jar;C:\Users\os-tingting.liu\.m2\repository\com\intuit\karate\karate-core\1.4.1\karate-core-1.4.1.jar;C:\Users\os-tingting.liu\.m2\repository\org\graalvm\js\js-scriptengine\22.3.3\js-scriptengine-22.3.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\graalvm\sdk\graal-sdk\22.3.3\graal-sdk-22.3.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\graalvm\js\js\22.3.3\js-22.3.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\graalvm\regex\regex\22.3.3\regex-22.3.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\graalvm\truffle\truffle-api\22.3.3\truffle-api-22.3.3.jar;C:\Users\os-tingting.liu\.m2\repository\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;C:\Users\os-tingting.liu\.m2\repository\org\thymeleaf\thymeleaf\3.1.2.RELEASE\thymeleaf-3.1.2.RELEASE.jar;C:\Users\os-tingting.liu\.m2\repository\ognl\ognl\3.3.4\ognl-3.3.4.jar;C:\Users\os-tingting.liu\.m2\repository\org\javassist\javassist\3.29.0-GA\javassist-3.29.0-GA.jar;C:\Users\os-tingting.liu\.m2\repository\org\attoparser\attoparser\2.0.7.RELEASE\attoparser-2.0.7.RELEASE.jar;C:\Users\os-tingting.liu\.m2\repository\org\unbescape\unbescape\1.1.6.RELEASE\unbescape-1.1.6.RELEASE.jar;C:\Users\os-tingting.liu\.m2\repository\org\slf4j\slf4j-api\2.0.7\slf4j-api-2.0.7.jar;C:\Users\os-tingting.liu\.m2\repository\com\linecorp\armeria\armeria\1.25.2\armeria-1.25.2.jar;C:\Users\os-tingting.liu\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.15.2\jackson-core-2.15.2.jar;C:\Users\os-tingting.liu\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.15.2\jackson-annotations-2.15.2.jar;C:\Users\os-tingting.liu\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.15.2\jackson-databind-2.15.2.jar;C:\Users\os-tingting.liu\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jdk8\2.15.2\jackson-datatype-jdk8-2.15.2.jar;C:\Users\os-tingting.liu\.m2\repository\com\fasterxml\jackson\datatype\jackson-datatype-jsr310\2.15.2\jackson-datatype-jsr310-2.15.2.jar;C:\Users\os-tingting.liu\.m2\repository\io\micrometer\micrometer-core\1.11.3\micrometer-core-1.11.3.jar;C:\Users\os-tingting.liu\.m2\repository\io\micrometer\micrometer-commons\1.11.3\micrometer-commons-1.11.3.jar;C:\Users\os-tingting.liu\.m2\repository\io\micrometer\micrometer-observation\1.11.3\micrometer-observation-1.11.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\hdrhistogram\HdrHistogram\2.1.12\HdrHistogram-2.1.12.jar;C:\Users\os-tingting.liu\.m2\repository\org\latencyutils\LatencyUtils\2.0.3\LatencyUtils-2.0.3.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport\4.1.96.Final\netty-transport-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-common\4.1.96.Final\netty-common-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-buffer\4.1.96.Final\netty-buffer-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-resolver\4.1.96.Final\netty-resolver-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-codec-haproxy\4.1.96.Final\netty-codec-haproxy-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-codec\4.1.96.Final\netty-codec-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-codec-http2\4.1.96.Final\netty-codec-http2-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-handler\4.1.96.Final\netty-handler-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-codec-http\4.1.96.Final\netty-codec-http-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-resolver-dns\4.1.96.Final\netty-resolver-dns-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-codec-dns\4.1.96.Final\netty-codec-dns-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-handler-proxy\4.1.96.Final\netty-handler-proxy-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-codec-socks\4.1.96.Final\netty-codec-socks-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.96.Final\netty-transport-native-unix-common-4.1.96.Final-linux-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-epoll\4.1.96.Final\netty-transport-native-epoll-4.1.96.Final-linux-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.96.Final\netty-transport-native-unix-common-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-classes-epoll\4.1.96.Final\netty-transport-classes-epoll-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.96.Final\netty-transport-native-unix-common-4.1.96.Final-linux-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-epoll\4.1.96.Final\netty-transport-native-epoll-4.1.96.Final-linux-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.96.Final\netty-transport-native-unix-common-4.1.96.Final-osx-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.96.Final\netty-transport-native-kqueue-4.1.96.Final-osx-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-classes-kqueue\4.1.96.Final\netty-transport-classes-kqueue-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-resolver-dns-native-macos\4.1.96.Final\netty-resolver-dns-native-macos-4.1.96.Final-osx-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-resolver-dns-classes-macos\4.1.96.Final\netty-resolver-dns-classes-macos-4.1.96.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-unix-common\4.1.96.Final\netty-transport-native-unix-common-4.1.96.Final-osx-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-transport-native-kqueue\4.1.96.Final\netty-transport-native-kqueue-4.1.96.Final-osx-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-resolver-dns-native-macos\4.1.96.Final\netty-resolver-dns-native-macos-4.1.96.Final-osx-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-tcnative-boringssl-static\2.0.61.Final\netty-tcnative-boringssl-static-2.0.61.Final-linux-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-tcnative-classes\2.0.61.Final\netty-tcnative-classes-2.0.61.Final.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-tcnative-boringssl-static\2.0.61.Final\netty-tcnative-boringssl-static-2.0.61.Final-linux-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-tcnative-boringssl-static\2.0.61.Final\netty-tcnative-boringssl-static-2.0.61.Final-osx-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-tcnative-boringssl-static\2.0.61.Final\netty-tcnative-boringssl-static-2.0.61.Final-osx-aarch_64.jar;C:\Users\os-tingting.liu\.m2\repository\io\netty\netty-tcnative-boringssl-static\2.0.61.Final\netty-tcnative-boringssl-static-2.0.61.Final-windows-x86_64.jar;C:\Users\os-tingting.liu\.m2\repository\com\aayushatharva\brotli4j\brotli4j\1.12.0\brotli4j-1.12.0.jar;C:\Users\os-tingting.liu\.m2\repository\com\aayushatharva\brotli4j\service\1.12.0\service-1.12.0.jar;C:\Users\os-tingting.liu\.m2\repository\com\aayushatharva\brotli4j\native-windows-x86_64\1.12.0\native-windows-x86_64-1.12.0.jar;C:\Users\os-tingting.liu\.m2\repository\org\apache\httpcomponents\httpclient\4.5.14\httpclient-4.5.14.jar;C:\Users\os-tingting.liu\.m2\repository\org\apache\httpcomponents\httpcore\4.4.16\httpcore-4.4.16.jar;C:\Users\os-tingting.liu\.m2\repository\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;C:\Users\os-tingting.liu\.m2\repository\ch\qos\logback\logback-classic\1.4.11\logback-classic-1.4.11.jar;C:\Users\os-tingting.liu\.m2\repository\ch\qos\logback\logback-core\1.4.11\logback-core-1.4.11.jar;C:\Users\os-tingting.liu\.m2\repository\org\slf4j\jcl-over-slf4j\2.0.9\jcl-over-slf4j-2.0.9.jar;C:\Users\os-tingting.liu\.m2\repository\org\antlr\antlr4-runtime\4.11.1\antlr4-runtime-4.11.1.jar;C:\Users\os-tingting.liu\.m2\repository\com\jayway\jsonpath\json-path\2.8.0\json-path-2.8.0.jar;C:\Users\os-tingting.liu\.m2\repository\net\minidev\json-smart\2.4.10\json-smart-2.4.10.jar;C:\Users\os-tingting.liu\.m2\repository\net\minidev\accessors-smart\2.4.9\accessors-smart-2.4.9.jar;C:\Users\os-tingting.liu\.m2\repository\org\ow2\asm\asm\9.3\asm-9.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\yaml\snakeyaml\2.0\snakeyaml-2.0.jar;C:\Users\os-tingting.liu\.m2\repository\de\siegmar\fastcsv\2.2.1\fastcsv-2.2.1.jar;C:\Users\os-tingting.liu\.m2\repository\info\picocli\picocli\4.7.1\picocli-4.7.1.jar;C:\Users\os-tingting.liu\.m2\repository\io\github\classgraph\classgraph\4.8.160\classgraph-4.8.160.jar;C:\Users\os-tingting.liu\.m2\repository\io\github\t12y\resemble\1.0.2\resemble-1.0.2.jar;C:\Users\os-tingting.liu\.m2\repository\io\github\t12y\ssim\1.0.0\ssim-1.0.0.jar;C:\Users\os-tingting.liu\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.3\junit-jupiter-api-5.9.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\os-tingting.liu\.m2\repository\org\junit\platform\junit-platform-commons\1.9.3\junit-platform-commons-1.9.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\os-tingting.liu\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.3\junit-jupiter-engine-5.9.3.jar;C:\Users\os-tingting.liu\.m2\repository\org\junit\platform\junit-platform-engine\1.9.3\junit-platform-engine-1.9.3.jar;C:\Users\os-tingting.liu\.m2\repository\com\aventstack\extentreports\5.1.1\extentreports-5.1.1.jar;C:\Users\os-tingting.liu\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\os-tingting.liu\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\os-tingting.liu\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\os-tingting.liu\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\os-tingting.liu\.m2\repository\org\projectlombok\lombok\1.18.32\lombok-1.18.32.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\os-tingting.liu"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-04-16"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\os-tingting.liu\Downloads\test-automation-karate-feature-extent-report-yanni"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\os-tingting.liu\AppData\Local\Temp\surefire16302755397125680911\surefirebooter-20240620153613383_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.11+7-LTS-207"/>
+    <property name="user.name" value="os-tingting.liu"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\os-tingting.liu\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\OS-TIN~1.LIU\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.11"/>
+    <property name="user.dir" value="C:\Users\os-tingting.liu\Downloads\test-automation-karate-feature-extent-report-yanni"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="MS932"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-17\bin;C:\Python312\Scripts\;C:\Python312\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Box\Box Edit\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Users\os-tingting.liu\Downloads\apache-maven-3.9.7-bin\apache-maven-3.9.7\bin\;C:\Users\os-tingting.liu\AppData\Local\Microsoft\WindowsApps;C:\Users\os-tingting.liu\AppData\Roaming\npm;C:\Program Files\Java\jdk1.8.0_202\bin;C:\Users\os-tingting.liu\AppData\Local\Programs\Microsoft VS Code\bin;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.11+7-LTS-207"/>
+    <property name="report" value="C:\Users\os-tingting.liu\Documents\report"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="[1:11] Create Provider" classname="rakuten/zeromanual/provider_api/provider_api" time="4.344">
+    <system-out><![CDATA[15:36:15.919 [main] INFO  com.intuit.karate - Initializing extent report...
+15:36:16.171 [main] INFO  com.intuit.karate - Extent report is created in C:\Users\os-tingting.liu\Documents\report\Extent_Report.html
+15:36:18.329 [main] INFO  com.intuit.karate - karate.env system property was: null 
+15:36:18.347 [main] INFO  com.intuit.karate - karate.api.proxy system property was: http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:18.359 [main] INFO  com.intuit.karate - karate.ui.proxy system property was: null 
+15:36:18.362 [main] INFO  com.intuit.karate - karate.ui.showBrowser system property was: null 
+15:36:18.962 [main] INFO  com.intuit.karate - [print] http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:19.783 [main] INFO  com.intuit.karate - [print] http://provider.travel.stg.jp.local/provider//v1/providers 
+15:36:19.786 [main] INFO  com.intuit.karate - [print] 201 
+15:36:19.786 [main] INFO  com.intuit.karate - [print]  
+15:36:19.792 [main] INFO  com.intuit.karate - [print] {
+  "Content-Type": "application/json; charset=UTF-8",
+  "Content-Length": "40",
+  "Host": "provider.travel.stg.jp.local",
+  "Proxy-Connection": "Keep-Alive",
+  "User-Agent": "Apache-HttpClient/4.5.14 (Java/17.0.11)",
+  "Accept-Encoding": "gzip,deflate"
+}
+ 
+15:36:19.891 [main] INFO  com.intuit.karate - [print] http://provider.travel.stg.jp.local/provider//v1/providers/search/findByCategoryAndSpecificId?specificId=766806&category=HOTEL 
+15:36:19.894 [main] INFO  com.intuit.karate - [print] 200 
+15:36:19.894 [main] INFO  com.intuit.karate - [print] {
+  "id": "91f5e561-ad53-4483-a4ef-eca0ce76f637"
+}
+ 
+15:36:19.894 [main] INFO  com.intuit.karate - [print] {
+  "Host": "provider.travel.stg.jp.local",
+  "Proxy-Connection": "Keep-Alive",
+  "User-Agent": "Apache-HttpClient/4.5.14 (Java/17.0.11)",
+  "Accept-Encoding": "gzip,deflate"
+}
+ 
+15:36:19.996 [main] INFO  com.intuit.karate - [print] http://provider.travel.stg.jp.local/provider/v1/providers/91f5e561-ad53-4483-a4ef-eca0ce76f637 
+15:36:19.999 [main] INFO  com.intuit.karate - [print] 204 
+15:36:19.999 [main] INFO  com.intuit.karate - [print]  
+15:36:20.002 [main] INFO  com.intuit.karate - [print] {
+  "Host": "provider.travel.stg.jp.local",
+  "Proxy-Connection": "Keep-Alive",
+  "User-Agent": "Apache-HttpClient/4.5.14 (Java/17.0.11)",
+  "Accept-Encoding": "gzip,deflate"
+}
+ 
+]]></system-out>
+  </testcase>
+  <testcase name="[2:20] fetch1 Provider" classname="rakuten/zeromanual/provider_api/provider_api" time="0.276">
+    <system-out><![CDATA[15:36:20.272 [main] INFO  com.intuit.karate - karate.env system property was: null 
+15:36:20.272 [main] INFO  com.intuit.karate - karate.api.proxy system property was: http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:20.272 [main] INFO  com.intuit.karate - karate.ui.proxy system property was: null 
+15:36:20.275 [main] INFO  com.intuit.karate - karate.ui.showBrowser system property was: null 
+15:36:20.293 [main] INFO  com.intuit.karate - [print] http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:20.341 [main] INFO  com.intuit.karate - [print] http://provider.travel.stg.jp.local/provider//v1/providers/34cc8383-f435-48de-94c0-c48dfeb3be85 
+15:36:20.344 [main] INFO  com.intuit.karate - [print] 200 
+15:36:20.344 [main] INFO  com.intuit.karate - [print] {
+  "specificId": "102499",
+  "category": "HOTEL"
+}
+ 
+15:36:20.347 [main] INFO  com.intuit.karate - [print] {
+  "Host": "provider.travel.stg.jp.local",
+  "Proxy-Connection": "Keep-Alive",
+  "User-Agent": "Apache-HttpClient/4.5.14 (Java/17.0.11)",
+  "Accept-Encoding": "gzip,deflate"
+}
+ 
+]]></system-out>
+  </testcase>
+  <testcase name="[3:34] fetch2 Provider" classname="rakuten/zeromanual/provider_api/provider_api" time="0.217">
+    <system-out><![CDATA[15:36:20.542 [main] INFO  com.intuit.karate - karate.env system property was: null 
+15:36:20.542 [main] INFO  com.intuit.karate - karate.api.proxy system property was: http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:20.542 [main] INFO  com.intuit.karate - karate.ui.proxy system property was: null 
+15:36:20.542 [main] INFO  com.intuit.karate - karate.ui.showBrowser system property was: null 
+15:36:20.554 [main] INFO  com.intuit.karate - [print] http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:20.611 [main] INFO  com.intuit.karate - [print] http://provider.travel.stg.jp.local/provider//v2/providers/34cc8383-f435-48de-94c0-c48dfeb3be85 
+15:36:20.614 [main] INFO  com.intuit.karate - [print] 200 
+15:36:20.617 [main] INFO  com.intuit.karate - [print] {
+  "specificId": "102499",
+  "category": "HOTEL",
+  "districtId": 10873,
+  "currency": "JPY",
+  "competitors": [
+  ]
+}
+ 
+15:36:20.617 [main] INFO  com.intuit.karate - [print] {
+  "Host": "provider.travel.stg.jp.local",
+  "Proxy-Connection": "Keep-Alive",
+  "User-Agent": "Apache-HttpClient/4.5.14 (Java/17.0.11)",
+  "Accept-Encoding": "gzip,deflate"
+}
+ 
+]]></system-out>
+  </testcase>
+  <testcase name="[4:48] Search Provider" classname="rakuten/zeromanual/provider_api/provider_api" time="0.255">
+    <system-out><![CDATA[15:36:20.762 [main] INFO  com.intuit.karate - karate.env system property was: null 
+15:36:20.762 [main] INFO  com.intuit.karate - karate.api.proxy system property was: http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:20.762 [main] INFO  com.intuit.karate - karate.ui.proxy system property was: null 
+15:36:20.765 [main] INFO  com.intuit.karate - karate.ui.showBrowser system property was: null 
+15:36:20.777 [main] INFO  com.intuit.karate - [print] http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:20.831 [main] INFO  com.intuit.karate - [print] http://provider.travel.stg.jp.local/provider//v1/providers/search/findByCategoryAndSpecificId?specificId=102498&category=HOTEL 
+15:36:20.834 [main] INFO  com.intuit.karate - [print] 200 
+15:36:20.834 [main] INFO  com.intuit.karate - [print] {
+  "id": "e359e794-8c6c-4fc7-b0c7-f929bd51bc88"
+}
+ 
+15:36:20.834 [main] INFO  com.intuit.karate - [print] {
+  "Host": "provider.travel.stg.jp.local",
+  "Proxy-Connection": "Keep-Alive",
+  "User-Agent": "Apache-HttpClient/4.5.14 (Java/17.0.11)",
+  "Accept-Encoding": "gzip,deflate"
+}
+ 
+]]></system-out>
+  </testcase>
+  <testcase name="[5:64] Remove districtId" classname="rakuten/zeromanual/provider_api/provider_api" time="0.252">
+    <system-out><![CDATA[15:36:21.029 [main] INFO  com.intuit.karate - karate.env system property was: null 
+15:36:21.029 [main] INFO  com.intuit.karate - karate.api.proxy system property was: http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:21.029 [main] INFO  com.intuit.karate - karate.ui.proxy system property was: null 
+15:36:21.032 [main] INFO  com.intuit.karate - karate.ui.showBrowser system property was: null 
+15:36:21.056 [main] INFO  com.intuit.karate - [print] http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:21.113 [main] INFO  com.intuit.karate - [print] http://provider.travel.stg.jp.local/provider//v1/providers/34cc8383-f435-48de-94c0-c48dfeb3be85 
+15:36:21.116 [main] INFO  com.intuit.karate - [print] 200 
+15:36:21.116 [main] INFO  com.intuit.karate - [print]  
+15:36:21.119 [main] INFO  com.intuit.karate - [print] {
+  "Content-Type": "application/json; charset=UTF-8",
+  "Accept": "application/json",
+  "Content-Length": "54",
+  "Host": "provider.travel.stg.jp.local",
+  "Proxy-Connection": "Keep-Alive",
+  "User-Agent": "Apache-HttpClient/4.5.14 (Java/17.0.11)",
+  "Accept-Encoding": "gzip,deflate"
+}
+ 
+]]></system-out>
+  </testcase>
+  <testcase name="[6:80] Replace districtId" classname="rakuten/zeromanual/provider_api/provider_api" time="0.276">
+    <system-out><![CDATA[15:36:21.278 [main] INFO  com.intuit.karate - karate.env system property was: null 
+15:36:21.278 [main] INFO  com.intuit.karate - karate.api.proxy system property was: http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:21.281 [main] INFO  com.intuit.karate - karate.ui.proxy system property was: null 
+15:36:21.281 [main] INFO  com.intuit.karate - karate.ui.showBrowser system property was: null 
+15:36:21.293 [main] INFO  com.intuit.karate - [print] http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:21.353 [main] INFO  com.intuit.karate - [print] http://provider.travel.stg.jp.local/provider//v1/providers/34cc8383-f435-48de-94c0-c48dfeb3be85 
+15:36:21.353 [main] INFO  com.intuit.karate - [print] 200 
+15:36:21.356 [main] INFO  com.intuit.karate - [print]  
+15:36:21.356 [main] INFO  com.intuit.karate - [print] {
+  "Content-Type": "application/json; charset=UTF-8",
+  "Accept": "application/json",
+  "Content-Length": "56",
+  "Host": "provider.travel.stg.jp.local",
+  "Proxy-Connection": "Keep-Alive",
+  "User-Agent": "Apache-HttpClient/4.5.14 (Java/17.0.11)",
+  "Accept-Encoding": "gzip,deflate"
+}
+ 
+]]></system-out>
+  </testcase>
+  <testcase name="[7:96] Replace currency" classname="rakuten/zeromanual/provider_api/provider_api" time="0.27">
+    <system-out><![CDATA[15:36:21.560 [main] INFO  com.intuit.karate - karate.env system property was: null 
+15:36:21.563 [main] INFO  com.intuit.karate - karate.api.proxy system property was: http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:21.563 [main] INFO  com.intuit.karate - karate.ui.proxy system property was: null 
+15:36:21.563 [main] INFO  com.intuit.karate - karate.ui.showBrowser system property was: null 
+15:36:21.581 [main] INFO  com.intuit.karate - [print] http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:21.644 [main] INFO  com.intuit.karate - [print] http://provider.travel.stg.jp.local/provider//v1/providers/34cc8383-f435-48de-94c0-c48dfeb3be85 
+15:36:21.644 [main] INFO  com.intuit.karate - [print] 200 
+15:36:21.650 [main] INFO  com.intuit.karate - [print]  
+15:36:21.650 [main] INFO  com.intuit.karate - [print] {
+  "Content-Type": "application/json; charset=UTF-8",
+  "Accept": "application/json",
+  "Content-Length": "52",
+  "Host": "provider.travel.stg.jp.local",
+  "Proxy-Connection": "Keep-Alive",
+  "User-Agent": "Apache-HttpClient/4.5.14 (Java/17.0.11)",
+  "Accept-Encoding": "gzip,deflate"
+}
+ 
+]]></system-out>
+  </testcase>
+  <testcase name="[8:112] Replace competitors" classname="rakuten/zeromanual/provider_api/provider_api" time="0.252">
+    <system-out><![CDATA[15:36:21.836 [main] INFO  com.intuit.karate - karate.env system property was: null 
+15:36:21.836 [main] INFO  com.intuit.karate - karate.api.proxy system property was: http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:21.839 [main] INFO  com.intuit.karate - karate.ui.proxy system property was: null 
+15:36:21.839 [main] INFO  com.intuit.karate - karate.ui.showBrowser system property was: null 
+15:36:21.863 [main] INFO  com.intuit.karate - [print] http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:21.914 [main] INFO  com.intuit.karate - [print] http://provider.travel.stg.jp.local/provider//v1/providers/34cc8383-f435-48de-94c0-c48dfeb3be85 
+15:36:21.917 [main] INFO  com.intuit.karate - [print] 200 
+15:36:21.917 [main] INFO  com.intuit.karate - [print]  
+15:36:21.920 [main] INFO  com.intuit.karate - [print] {
+  "Content-Type": "application/json; charset=UTF-8",
+  "Accept": "application/json",
+  "Content-Length": "90",
+  "Host": "provider.travel.stg.jp.local",
+  "Proxy-Connection": "Keep-Alive",
+  "User-Agent": "Apache-HttpClient/4.5.14 (Java/17.0.11)",
+  "Accept-Encoding": "gzip,deflate"
+}
+ 
+]]></system-out>
+  </testcase>
+  <testcase name="[9:127] Remove competitors" classname="rakuten/zeromanual/provider_api/provider_api" time="1.475">
+    <system-out><![CDATA[15:36:22.085 [main] INFO  com.intuit.karate - karate.env system property was: null 
+15:36:22.085 [main] INFO  com.intuit.karate - karate.api.proxy system property was: http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:22.085 [main] INFO  com.intuit.karate - karate.ui.proxy system property was: null 
+15:36:22.088 [main] INFO  com.intuit.karate - karate.ui.showBrowser system property was: null 
+15:36:22.100 [main] INFO  com.intuit.karate - [print] http://stg-proxy.travel.rakuten.co.jp:9050 
+15:36:22.157 [main] INFO  com.intuit.karate - [print] http://provider.travel.stg.jp.local/provider//v1/providers/34cc8383-f435-48de-94c0-c48dfeb3be85 
+15:36:22.157 [main] INFO  com.intuit.karate - [print] 200 
+15:36:22.160 [main] INFO  com.intuit.karate - [print]  
+15:36:22.160 [main] INFO  com.intuit.karate - [print] {
+  "Content-Type": "application/json; charset=UTF-8",
+  "Accept": "application/json",
+  "Content-Length": "89",
+  "Host": "provider.travel.stg.jp.local",
+  "Proxy-Connection": "Keep-Alive",
+  "User-Agent": "Apache-HttpClient/4.5.14 (Java/17.0.11)",
+  "Accept-Encoding": "gzip,deflate"
+}
+ 
+---------------------------------------------------------
+feature: classpath:rakuten/zeromanual/provider_api/provider_api.feature
+scenarios:  9 | passed:  9 | failed:  0 | time: 1.5726
+---------------------------------------------------------
+
+Karate version: 1.4.1
+======================================================
+elapsed:   7.70 | threads:    1 | thread time: 1.57 
+features:     1 | skipped:    0 | efficiency: 0.20
+scenarios:    9 | passed:     9 | failed: 0
+======================================================
+
+HTML report: (paste into browser to view) | Karate version: 1.4.1
+file:///C:/Users/os-tingting.liu/Downloads/test-automation-karate-feature-extent-report-yanni/target/karate-reports/karate-summary.html
+===================================================================
+
+]]></system-out>
+  </testcase>
+</testsuite>

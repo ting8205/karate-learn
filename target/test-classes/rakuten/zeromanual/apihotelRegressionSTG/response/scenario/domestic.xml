@@ -1,0 +1,1712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OTA_HotelDescriptiveInfoRS PrimaryLangID="JP" TimeStamp="2024-06-21T16:08:58" Version="0.0" xmlns="http://www.opentravel.org/OTA/2003/05" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opentravel.org/OTA/2003/05 ../xsd/OTA_HotelDescriptiveInfoRS.xsd ">
+    <Success />
+    <HotelDescriptiveContents>
+        <HotelDescriptiveContent>
+            <HotelInfo
+                    hotelStatusCode="0"
+                    hotelStatus="公開中"
+                    domestic="HOTEL"
+                    eki="xxxxJR日豊本線日南駅よりバス10分、車5分_TEST UPDATE"
+                    hotelCategory="HOTEL"
+                    hotelDesc="[STG]　楽天トラベル1　18F、ビーチは目の前！海と山に囲まれた温泉リゾート。四季彩ダイニングや個室料亭で島の恵みを心ゆくまで。、xxxxJR日豊本線日南駅よりバス10分、車5分_TEST UPDATE、駐車場:ビーチは目の前！"
+                    hotelKana="らくてんとらべる１８かい"
+                    hotelName="[STG]　楽天トラベル1　18F"
+                    hotelNo="31571"
+                    img="https://trvimg.r10s.jp/share/HOTEL/31571/31571.jpg"
+                    ken="東京都"
+                    logoFlg="0"
+                    petDelFlg="0"
+                    platinumFlg=""
+                    premiumFlg=""
+                    rank="null"
+                    stateCd="0"
+                    tabimadoDelFlg=""
+                    teikei="44-4444-0213"
+                    tikuChu="tokyo"
+                    tikuDai="japan"
+                    tikuSai="A"
+                    tikuShou="tokyo"
+                    toukouDelFlg="1"
+                    hotelTel="03-9999-9999"
+                    hotelFax="03-9999-9999"
+                    hotelMaxRoom="104"
+                    hotelParking="ビーチは目の前！"
+                    hotelBikou=""
+                    hotelNameImageFilePath=""
+                    providerId="e1f62f18-484a-407f-ae23-8edc6efb13f0"
+                    isPreferred="0"
+                    hmtwntaxCert="0"
+            >
+                <Descriptions>
+                    <DescriptiveText>[STG]　楽天トラベル1　18F&lt;br&gt;ビーチは目の前！海と山に囲まれた温泉リゾート。四季彩ダイニングや個室料亭で島の恵みを心ゆくまで。&lt;br&gt;xxxxJR日豊本線日南駅よりバス10分、車5分_TEST UPDATE&lt;br&gt;駐車場:ビーチは目の前！</DescriptiveText>
+                </Descriptions>
+                <HotelFeatures>
+                    <DescriptiveText>ビーチは目の前！海と山に囲まれた温泉リゾート。四季彩ダイニングや個室料亭で島の恵みを心ゆくまで。</DescriptiveText>
+                </HotelFeatures>
+                <Position latitude="128446.21" longitude="503158.25"
+                          latitude2="35.6827279" longitude2="139.7629717" />
+                <!-- グループ -->
+                <Groups>
+                    <Group code="AC">アークホテルグループ</Group>
+                </Groups>
+                <!-- 館内設備  -->
+                <Services>
+                    <Service id="143">
+                        <DescriptiveText>コンシェルジュサービス</DescriptiveText>
+                    </Service>
+                    <Facility id="101">
+                        <DescriptiveText>レストラン</DescriptiveText>
+                    </Facility>
+                    <Facility id="105">
+                        <DescriptiveText>ラウンジ</DescriptiveText>
+                    </Facility>
+                    <Facility id="126">
+                        <DescriptiveText>露天風呂</DescriptiveText>
+                    </Facility>
+                    <Other id="1">
+                        <DescriptiveText>1234</DescriptiveText>
+                    </Other>
+                    <Other id="2">
+                        <DescriptiveText>1234</DescriptiveText>
+                    </Other>
+                    <Other id="3">
+                        <DescriptiveText>1234</DescriptiveText>
+                    </Other>
+                </Services>
+                <!-- 特典  -->
+                <Privileges>
+                    <Privilege id="">
+                        <DescriptiveText>test amenity other</DescriptiveText>
+                    </Privilege>
+                </Privileges>
+                <!-- 食事の場所  -->
+                <MealPlaces>
+                    <Breakfast>
+                        <MealPlace id="01">
+                            <DescriptiveText>部屋</DescriptiveText>
+                        </MealPlace>
+                        <MealPlace id="02">
+                            <DescriptiveText>個室</DescriptiveText>
+                        </MealPlace>
+                    </Breakfast>
+                    <Dinner>
+                        <MealPlace id="10">
+                            <DescriptiveText>食事処</DescriptiveText>
+                        </MealPlace>
+                        <MealPlace id="11">
+                            <DescriptiveText>食堂</DescriptiveText>
+                        </MealPlace>
+                    </Dinner>
+                </MealPlaces>
+                <!-- カード  -->
+                <Cards>
+                    <Card id="01">
+                        <DescriptiveText>VISA</DescriptiveText>
+                    </Card>
+                    <Card id="02">
+                        <DescriptiveText>JCB</DescriptiveText>
+                    </Card>
+                    <Card id="03">
+                        <DescriptiveText>American Express</DescriptiveText>
+                    </Card>
+                    <Other>
+                        <DescriptiveText>321</DescriptiveText>
+                    </Other>
+                </Cards>
+                <!-- 施設基本情報 追加情報  -->
+                <BaseAddInfos>
+                </BaseAddInfos>
+                <!-- その他設備 サービス 追加情報  -->
+                <FacilitiesAndServicesAddInfo>
+                </FacilitiesAndServicesAddInfo>
+                <HotelTypes>
+                    <HotelType id="15">
+                        <DescriptiveText>ラブホテル</DescriptiveText>
+                    </HotelType>
+                </HotelTypes>
+                <!-- 条件・注意事項  -->
+                <AttentionDatas>
+                    <AttentionData id="1">
+                        <DescriptiveText>注意事項1（楽天）</DescriptiveText>
+                    </AttentionData>
+                    <AttentionData id="2">
+                        <DescriptiveText>注意事項2（楽天）</DescriptiveText>
+                    </AttentionData>
+                    <AttentionData id="3">
+                        <DescriptiveText>注意事項3（楽天）</DescriptiveText>
+                    </AttentionData>
+                    <AttentionData id="4">
+                        <DescriptiveText>注意事項4（楽天）</DescriptiveText>
+                    </AttentionData>
+                    <AttentionData id="5">
+                        <DescriptiveText>注意事項5（楽天）</DescriptiveText>
+                    </AttentionData>
+                    <AttentionData id="6">
+                        <DescriptiveText>注意事項6（楽天）</DescriptiveText>
+                    </AttentionData>
+                    <AttentionData id="7">
+                        <DescriptiveText>注意事項7（楽天）</DescriptiveText>
+                    </AttentionData>
+                    <AttentionData id="8">
+                        <DescriptiveText>注意事項8（楽天）</DescriptiveText>
+                    </AttentionData>
+                    <AttentionData id="9">
+                        <DescriptiveText>注意事項9（楽天）</DescriptiveText>
+                    </AttentionData>
+                    <AttentionData id="10">
+                        <DescriptiveText>注意事項10（楽天）</DescriptiveText>
+                    </AttentionData>
+                </AttentionDatas>
+                <!-- その他  -->
+                <OtherDatas>
+                    <Other id="1">
+                        <DescriptiveText>PLSQL</DescriptiveText>
+                    </Other>
+                </OtherDatas>
+            </HotelInfo>
+            <FacilityInfo>
+                <!-- 部屋設備・備品 -->
+                <GuestRooms>
+                    <GuestRoom>
+                        <Amenities>
+                            <Amenity id="100">
+                                <DescriptiveText>有料テレビ</DescriptiveText>
+                            </Amenity>
+                            <Amenity id="121">
+                                <DescriptiveText>インターネット接続(LAN形式)</DescriptiveText>
+                            </Amenity>
+                            <Amenity id="122">
+                                <DescriptiveText>インターネット接続(無線LAN形式)</DescriptiveText>
+                            </Amenity>
+                            <Amenity id="123">
+                                <DescriptiveText>インターネット接続(一部、LAN形式)</DescriptiveText>
+                            </Amenity>
+                            <Amenity id="124">
+                                <DescriptiveText>インターネット接続(一部、無線LAN形式)</DescriptiveText>
+                            </Amenity>
+                            <Amenity id="145">
+                                <DescriptiveText>ズボンプレッサー(貸出)</DescriptiveText>
+                            </Amenity>
+                            <Amenity id="252">
+                                <DescriptiveText>ベビーベッド</DescriptiveText>
+                            </Amenity>
+                        </Amenities>
+                    </GuestRoom>
+                </GuestRooms>
+                <!-- バリアフリー情報 -->
+                <Barrier-frees>
+                    <Barrier-free id="01">
+                        <DescriptiveText>車椅子可</DescriptiveText>
+                    </Barrier-free>
+                    <Barrier-free id="04">
+                        <DescriptiveText>貸出用車椅子</DescriptiveText>
+                    </Barrier-free>
+                    <Barrier-free id="05">
+                        <DescriptiveText>バリアフリー用トイレ</DescriptiveText>
+                    </Barrier-free>
+                    <Barrier-free id="06">
+                        <DescriptiveText>バリアフリールーム</DescriptiveText>
+                    </Barrier-free>
+                </Barrier-frees>
+            </FacilityInfo>
+            <Policies>
+                <Policy>
+                    <CancelPolicy>
+                        <CancelPenalty>
+                            <Deadline offsetTimeUnit="" offsetDropTime=""/>
+                            <AmountPercent percent="100" />
+                            <PenaltyDescription language="jp">
+                                <Text>連絡なしの不泊/不着 ：宿泊料金の１００％</Text>
+                            </PenaltyDescription>
+                        </CancelPenalty>
+                        <CancelPenalty>
+                            <Deadline offsetTimeUnit="" offsetDropTime=""/>
+                            <AmountPercent percent="50" />
+                            <PenaltyDescription language="jp">
+                                <Text>当日　２時から　　　：宿泊料金の５０％　</Text>
+                            </PenaltyDescription>
+                        </CancelPenalty>
+                        <CancelPenalty>
+                            <Deadline offsetTimeUnit="" offsetDropTime=""/>
+                            <AmountPercent percent="20" />
+                            <PenaltyDescription language="jp">
+                                <Text>前日　３時から　　　：宿泊料金の２０％　</Text>
+                            </PenaltyDescription>
+                        </CancelPenalty>
+                        <CancelPenalty>
+                            <Deadline offsetTimeUnit="" offsetDropTime=""/>
+                            <AmountPercent percent="0" />
+                            <PenaltyDescription language="jp">
+                                <Text>２日前　４時から　　：宿泊料金の０％　　</Text>
+                            </PenaltyDescription>
+                        </CancelPenalty>
+                        <CancelPenalty>
+                            <Deadline offsetTimeUnit="" offsetDropTime=""/>
+                            <AmountPercent percent="20" />
+                            <PenaltyDescription language="jp">
+                                <Text>３日前　５時から　　：宿泊料金の２０％　</Text>
+                            </PenaltyDescription>
+                        </CancelPenalty>
+                        <CancelPenalty>
+                            <Deadline offsetTimeUnit="" offsetDropTime=""/>
+                            <AmountPercent percent="20" />
+                            <PenaltyDescription language="jp">
+                                <Text>４日前から　　　　　：宿泊料金の２０％　</Text>
+                            </PenaltyDescription>
+                        </CancelPenalty>
+                        <CancelPenalty>
+                            <Deadline offsetTimeUnit="" offsetDropTime=""/>
+                            <AmountPercent percent="20" />
+                            <PenaltyDescription language="jp">
+                                <Text>５日前から　　　　　：宿泊料金の２０％　</Text>
+                            </PenaltyDescription>
+                        </CancelPenalty>
+                        <CancelPenalty>
+                            <Deadline offsetTimeUnit="" offsetDropTime=""/>
+                            <AmountPercent percent="20" />
+                            <PenaltyDescription language="jp">
+                                <Text>６日前から　　　　　：宿泊料金の２０％　</Text>
+                            </PenaltyDescription>
+                        </CancelPenalty>
+                        <CancelPenalty>
+                            <Deadline offsetTimeUnit="" offsetDropTime=""/>
+                            <AmountPercent percent="20" />
+                            <PenaltyDescription language="jp">
+                                <Text>７日前から　　　　　：宿泊料金の２０％　</Text>
+                            </PenaltyDescription>
+                        </CancelPenalty>
+                        <CancelPenalty>
+                            <Deadline offsetTimeUnit="" offsetDropTime=""/>
+                            <AmountPercent percent="10" />
+                            <PenaltyDescription language="jp">
+                                <Text>１０日前から　　　　：宿泊料金の１０％　</Text>
+                            </PenaltyDescription>
+                        </CancelPenalty>
+                    </CancelPolicy>
+                    <PolicyInfo checkInTime="09:30" checkOutTime="09:00" checkInLastTime="13:30">
+                        <Description></Description>
+                    </PolicyInfo>
+                    <AttentionInfos>
+                        <AttentionInfo id="noshow">
+                            <DescriptiveText>※宿泊プランや日毎に、別途ポリシーが設定されている場合があります。&lt;br&gt;
+                                プラン詳細ページ（空室カレンダー横等）と【予約手続画面（予約step）】にて不泊についてのポリシーをご確認ください。</DescriptiveText>
+                        </AttentionInfo>
+                        <AttentionInfo id="cancel">
+                            <DescriptiveText>※宿泊プランや日毎に、別途キャンセルポリシーが設定されている場合があります。&lt;br&gt;
+                                プラン詳細ページ（空室カレンダー横等）と【予約手続画面（予約step）】にて必ずキャンセルポリシーをご確認ください。</DescriptiveText>
+                        </AttentionInfo>
+                    </AttentionInfos>
+                </Policy>
+            </Policies>
+            <AreaInfo>
+                <Attractions>
+                    <!-- 周辺のレジャー -->
+                    <Around code="leisure" id="100" orderNo="1">
+                        <DescriptiveText>海水浴</DescriptiveText>
+                    </Around>
+                    <Around code="leisure" id="102" orderNo="2">
+                        <DescriptiveText>海釣り</DescriptiveText>
+                    </Around>
+                    <Around code="leisure" id="123" orderNo="3">
+                        <DescriptiveText>ゴルフ</DescriptiveText>
+                    </Around>
+                    <Around code="leisure" id="171" orderNo="4">
+                        <DescriptiveText>水族館</DescriptiveText>
+                    </Around>
+                    <Around code="leisure" id="174" orderNo="5">
+                        <DescriptiveText>農業公園</DescriptiveText>
+                    </Around>
+                    <!-- 周辺の観光スポット -->
+                    <Around code="NearSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002317.html" orderNo="1">
+                        <DescriptiveText>和田倉橋</DescriptiveText>
+                    </Around>
+                    <Around code="NearSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13018174.html" orderNo="2">
+                        <DescriptiveText>スカイバス TOKYO</DescriptiveText>
+                    </Around>
+                    <Around code="NearSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13018743.html" orderNo="3">
+                        <DescriptiveText>JAXAi</DescriptiveText>
+                    </Around>
+                    <Around code="NearSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13016590.html" orderNo="4">
+                        <DescriptiveText>丸の内仲通り</DescriptiveText>
+                    </Around>
+                    <Around code="NearSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002380.html" orderNo="5">
+                        <DescriptiveText>旧東京中央郵便局</DescriptiveText>
+                    </Around>
+                    <Around code="NearSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13017179.html" orderNo="6">
+                        <DescriptiveText>丸の内 カフェ</DescriptiveText>
+                    </Around>
+                    <Around code="NearSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13004778.html" orderNo="7">
+                        <DescriptiveText>皇居外苑</DescriptiveText>
+                    </Around>
+                    <Around code="NearSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13021433.html" orderNo="8">
+                        <DescriptiveText>東京銘品館</DescriptiveText>
+                    </Around>
+                    <Around code="NearSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13004777.html" orderNo="9">
+                        <DescriptiveText>東京駅</DescriptiveText>
+                    </Around>
+                    <Around code="NearSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/D13900001.html" orderNo="10">
+                        <DescriptiveText>土佐藩上屋敷跡</DescriptiveText>
+                    </Around>
+                    <!-- 周辺の人気観光スポット -->
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13004777.html" orderNo="1">
+                        <DescriptiveText>東京駅</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002296.html" orderNo="2">
+                        <DescriptiveText>東京国際フォーラム</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13020030.html" orderNo="3">
+                        <DescriptiveText>キッザニア東京</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13020380.html" orderNo="4">
+                        <DescriptiveText>ユナイテッド・シネマ豊洲</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13016590.html" orderNo="5">
+                        <DescriptiveText>丸の内仲通り</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002261.html" orderNo="6">
+                        <DescriptiveText>水天宮</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13004778.html" orderNo="7">
+                        <DescriptiveText>皇居外苑</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002300.html" orderNo="8">
+                        <DescriptiveText>ソニービル</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13011503.html" orderNo="9">
+                        <DescriptiveText>皇居東御苑</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002290.html" orderNo="10">
+                        <DescriptiveText>東京都現代美術館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002594.html" orderNo="11">
+                        <DescriptiveText>地下鉄博物館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002519.html" orderNo="12">
+                        <DescriptiveText>帝国劇場</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005746.html" orderNo="13">
+                        <DescriptiveText>晴海客船ターミナル</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005736.html" orderNo="14">
+                        <DescriptiveText>夢の島熱帯植物館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002607.html" orderNo="15">
+                        <DescriptiveText>相田みつを美術館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005529.html" orderNo="16">
+                        <DescriptiveText>東京国立近代美術館フィルムセンター</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13004895.html" orderNo="17">
+                        <DescriptiveText>東京宝塚劇場</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002364.html" orderNo="18">
+                        <DescriptiveText>靖国神社</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002317.html" orderNo="19">
+                        <DescriptiveText>和田倉橋</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005825.html" orderNo="20">
+                        <DescriptiveText>富岡八幡宮</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13019321.html" orderNo="21">
+                        <DescriptiveText>東京駅一番街</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010574.html" orderNo="22">
+                        <DescriptiveText>東劇</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005747.html" orderNo="23">
+                        <DescriptiveText>新橋演舞場</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13020342.html" orderNo="24">
+                        <DescriptiveText>AKB48劇場</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13019546.html" orderNo="25">
+                        <DescriptiveText>最高裁判所</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010778.html" orderNo="26">
+                        <DescriptiveText>東京国立近代美術館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13006064.html" orderNo="27">
+                        <DescriptiveText>朝日新聞東京本社</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13019472.html" orderNo="28">
+                        <DescriptiveText>三井記念美術館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13006009.html" orderNo="29">
+                        <DescriptiveText>蘭学事始地</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13006010.html" orderNo="30">
+                        <DescriptiveText>佃島渡船の碑</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010606.html" orderNo="31">
+                        <DescriptiveText>いわて銀河プラザ</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13018877.html" orderNo="32">
+                        <DescriptiveText>靖国神社の桜</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13018878.html" orderNo="33">
+                        <DescriptiveText>外濠公園の桜</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13018889.html" orderNo="34">
+                        <DescriptiveText>仙台堀川公園の桜</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13018890.html" orderNo="35">
+                        <DescriptiveText>辰巳の森緑道公園の桜</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13012083.html" orderNo="36">
+                        <DescriptiveText>江東区立若洲公園キャンプ場</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13016887.html" orderNo="37">
+                        <DescriptiveText>浜離宮朝日ホール</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13020771.html" orderNo="38">
+                        <DescriptiveText>神保町花月</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13020872.html" orderNo="39">
+                        <DescriptiveText>メイド倶楽部</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13020953.html" orderNo="40">
+                        <DescriptiveText>東京都弘済会書籍部</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13006128.html" orderNo="41">
+                        <DescriptiveText>築地小劇場跡</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010003.html" orderNo="42">
+                        <DescriptiveText>日本フライトセーフティ</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13016981.html" orderNo="43">
+                        <DescriptiveText>永代橋</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13021418.html" orderNo="44">
+                        <DescriptiveText>シネカノン有楽町2丁目</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13016994.html" orderNo="45">
+                        <DescriptiveText>松之大廊下跡</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13019657.html" orderNo="46">
+                        <DescriptiveText>東京アニメセンター</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13018099.html" orderNo="47">
+                        <DescriptiveText>東京大神宮</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010291.html" orderNo="48">
+                        <DescriptiveText>心行寺</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010292.html" orderNo="49">
+                        <DescriptiveText>円珠院</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13021433.html" orderNo="50">
+                        <DescriptiveText>東京銘品館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13021480.html" orderNo="51">
+                        <DescriptiveText>IHIものづくり館 アイミューズ</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13018174.html" orderNo="52">
+                        <DescriptiveText>スカイバス TOKYO</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13018229.html" orderNo="53">
+                        <DescriptiveText>法務省 旧本館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13012102.html" orderNo="54">
+                        <DescriptiveText>東京水辺ライン シーサイドコース</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13020262.html" orderNo="55">
+                        <DescriptiveText>ソニー ショールーム</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005745.html" orderNo="56">
+                        <DescriptiveText>銀座テアトルシネマ</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005757.html" orderNo="57">
+                        <DescriptiveText>銀座シネパトス</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005772.html" orderNo="58">
+                        <DescriptiveText>TEPCO銀座館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005780.html" orderNo="59">
+                        <DescriptiveText>TOHOシネマズシャンテ</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005994.html" orderNo="60">
+                        <DescriptiveText>柳森神社</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005996.html" orderNo="61">
+                        <DescriptiveText>明神男坂</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13006004.html" orderNo="62">
+                        <DescriptiveText>谷崎潤一郎生誕の地</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13006005.html" orderNo="63">
+                        <DescriptiveText>住吉神社</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13006007.html" orderNo="64">
+                        <DescriptiveText>築地居留地跡</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13018230.html" orderNo="65">
+                        <DescriptiveText>北海道どさんこプラザ</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13006008.html" orderNo="66">
+                        <DescriptiveText>浅野内匠頭邸跡</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010538.html" orderNo="67">
+                        <DescriptiveText>泰明小学校</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010569.html" orderNo="68">
+                        <DescriptiveText>博品館劇場</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010572.html" orderNo="69">
+                        <DescriptiveText>丸の内TOEI2</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010573.html" orderNo="70">
+                        <DescriptiveText>丸の内TOEI1</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010575.html" orderNo="71">
+                        <DescriptiveText>TOHOシネマズ 日劇</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13018743.html" orderNo="72">
+                        <DescriptiveText>JAXAi</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13018832.html" orderNo="73">
+                        <DescriptiveText>浜離宮恩賜庭園</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13019173.html" orderNo="74">
+                        <DescriptiveText>かちどき 橋の資料館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13019329.html" orderNo="75">
+                        <DescriptiveText>秋葉原クロスフィールド</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010576.html" orderNo="76">
+                        <DescriptiveText>丸の内ピカデリー1・2</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010577.html" orderNo="77">
+                        <DescriptiveText>丸の内ルーブル</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010578.html" orderNo="78">
+                        <DescriptiveText>丸の内ピカデリー3</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010579.html" orderNo="79">
+                        <DescriptiveText>TOHOシネマズ 有楽座</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010580.html" orderNo="80">
+                        <DescriptiveText>有楽町スバル座</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010581.html" orderNo="81">
+                        <DescriptiveText>TOHOシネマズ スカラ座</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005802.html" orderNo="82">
+                        <DescriptiveText>江東区深川江戸資料館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13016627.html" orderNo="83">
+                        <DescriptiveText>もんじゃ屋形船</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005816.html" orderNo="84">
+                        <DescriptiveText>霊巌寺</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005822.html" orderNo="85">
+                        <DescriptiveText>清澄庭園</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005829.html" orderNo="86">
+                        <DescriptiveText>明治座</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005830.html" orderNo="87">
+                        <DescriptiveText>ジュサブロー館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002327.html" orderNo="88">
+                        <DescriptiveText>東京証券取引所</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002380.html" orderNo="89">
+                        <DescriptiveText>旧東京中央郵便局</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002381.html" orderNo="90">
+                        <DescriptiveText>岩波ホール</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002593.html" orderNo="91">
+                        <DescriptiveText>逓信総合博物館（ていぱーく）</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002809.html" orderNo="92">
+                        <DescriptiveText>浜離宮恩賜庭園</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13004025.html" orderNo="93">
+                        <DescriptiveText>聖路加タワー展望室</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13004035.html" orderNo="94">
+                        <DescriptiveText>ボタンの博物館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13004063.html" orderNo="95">
+                        <DescriptiveText>明治大学博物館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002613.html" orderNo="96">
+                        <DescriptiveText>出光美術館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002926.html" orderNo="97">
+                        <DescriptiveText>日枝神社</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002945.html" orderNo="98">
+                        <DescriptiveText>国会議事堂（参議院）</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002433.html" orderNo="99">
+                        <DescriptiveText>ニューオータニ美術館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002435.html" orderNo="100">
+                        <DescriptiveText>国立劇場</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002436.html" orderNo="101">
+                        <DescriptiveText>江戸川区自然動物園</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002295.html" orderNo="102">
+                        <DescriptiveText>日本銀行金融研究所 貨幣博物館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002297.html" orderNo="103">
+                        <DescriptiveText>本願寺築地別院（築地本願寺）</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002490.html" orderNo="104">
+                        <DescriptiveText>よみうりホール</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002492.html" orderNo="105">
+                        <DescriptiveText>日比谷公園野外大音楽堂</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002494.html" orderNo="106">
+                        <DescriptiveText>日本武道館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002496.html" orderNo="107">
+                        <DescriptiveText>日生劇場</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13017761.html" orderNo="108">
+                        <DescriptiveText>銀行発祥の地</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13017765.html" orderNo="109">
+                        <DescriptiveText>菩提樹</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13017766.html" orderNo="110">
+                        <DescriptiveText>波除稲荷神社</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13017767.html" orderNo="111">
+                        <DescriptiveText>かちどきの渡し跡</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13017768.html" orderNo="112">
+                        <DescriptiveText>石川島灯台（人足寄場跡）</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13017776.html" orderNo="113">
+                        <DescriptiveText>山本海苔店</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005514.html" orderNo="114">
+                        <DescriptiveText>お江戸日本橋亭</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005516.html" orderNo="115">
+                        <DescriptiveText>神田神社</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13017179.html" orderNo="116">
+                        <DescriptiveText>丸の内 カフェ</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13017211.html" orderNo="117">
+                        <DescriptiveText>HOUSE OF SHISEIDO</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13021875.html" orderNo="118">
+                        <DescriptiveText>集英社ミュージアム</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/D13900001.html" orderNo="119">
+                        <DescriptiveText>土佐藩上屋敷跡</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/D13900002.html" orderNo="120">
+                        <DescriptiveText>土佐藩中屋敷跡</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/D13900003.html" orderNo="121">
+                        <DescriptiveText>千葉定吉道場跡（１）</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/D13900004.html" orderNo="122">
+                        <DescriptiveText>千葉定吉道場跡（２）</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/D13900005.html" orderNo="123">
+                        <DescriptiveText>玄武館跡</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/D13900006.html" orderNo="124">
+                        <DescriptiveText>桃井道場（志学館）跡</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/D13900007.html" orderNo="125">
+                        <DescriptiveText>佐久間象山邸跡</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/D13900008.html" orderNo="126">
+                        <DescriptiveText>越前福井藩邸跡</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/D13900010.html" orderNo="127">
+                        <DescriptiveText>幕府軍艦操練所跡</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13024171.html" orderNo="128">
+                        <DescriptiveText>法乗院</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13024180.html" orderNo="129">
+                        <DescriptiveText>ＳＮＡＣ</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13025850.html" orderNo="130">
+                        <DescriptiveText>アウトドア　スポーツクラブ　ＺＡＣ</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13023857.html" orderNo="131">
+                        <DescriptiveText>深川図書館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13016616.html" orderNo="132">
+                        <DescriptiveText>瀬川丸</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010293.html" orderNo="133">
+                        <DescriptiveText>龍光院</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13010294.html" orderNo="134">
+                        <DescriptiveText>深川稲荷神社　深川七福神　布袋尊</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13005823.html" orderNo="135">
+                        <DescriptiveText>成田山深川不動堂</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13021727.html" orderNo="136">
+                        <DescriptiveText>葛西海浜公園東なぎさ・西なぎさ</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13022227.html" orderNo="137">
+                        <DescriptiveText>深川東京モダン館</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13024120.html" orderNo="138">
+                        <DescriptiveText>辰巳パーキングエリア（第一）</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13024121.html" orderNo="139">
+                        <DescriptiveText>辰巳パーキングエリア（第二）</DescriptiveText>
+                    </Around>
+                    <Around code="PopSpot" uri="//kanko.travel.rakuten.co.jp/tokyo/spot/S13002656.html" orderNo="140">
+                        <DescriptiveText>東京都葛西臨海水族園</DescriptiveText>
+                    </Around>
+                    <!-- 周辺のスキー場 -->
+
+                </Attractions>
+            </AreaInfo>
+            <MultimediaDescriptions>
+                <MultimediaDescription>
+                    <ImageItems>
+                        <ImageItem category="" categoryType="DETAIL1" categoryName="" videoId="" itemNo="0">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/HOTEL/31571/31571.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="" categoryType="DETAIL2" categoryName="施設内写真2" videoId="" itemNo="0">
+                            <ImageFormat fileName="1234.jpg" description="">
+                                <URL>https://trvimg.r10s.jp/share/HOTEL/31571/1234.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="hotelinfo" categoryName="" videoId="1200039259" itemNo="1">
+                            <ImageFormat fileName="Video Platformテスト用" description="test">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200039259&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="hotelinfo" categoryName="" videoId="" itemNo="2">
+                            <ImageFormat fileName="あ" description="あ">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/081364c1f3a865ad6a1393e767e337fa0e3254ea.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="hotelinfo" categoryName="" videoId="" itemNo="3">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/9a0ff1303eaff8b4a06f899bb69abf4102a61632.82.1.26.2.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="hotelinfo" categoryName="" videoId="" itemNo="4">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/914a45dbaf3064a3da646d9daf563740bef88661.82.1.26.2.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="hotelinfo" categoryName="" videoId="" itemNo="5">
+                            <ImageFormat fileName="devproxy-abolish テスト" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/2017c00700a225b058678bdaa85d626bedf9d2d1.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000002" categoryType="hotelinfo" categoryName="" videoId="1200007583" itemNo="6">
+                            <ImageFormat fileName="onsen" description="onsen">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200007583&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="hotelinfo" categoryName="" videoId="1200034875" itemNo="7">
+                            <ImageFormat fileName="Legacy Travel Upload" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200034875&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="hotelinfo" categoryName="" videoId="1200038547" itemNo="8">
+                            <ImageFormat fileName="SOK 20210108 test for Dynamic Delivery202101151322" description="トラベル新・Video新の状態でアップロードし、トラベル管理画面で再生できるかを確認する。20210115132220">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038547&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="hotelinfo" categoryName="" videoId="1200038445" itemNo="9">
+                            <ImageFormat fileName="施設紹介" description="施設紹介">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038445&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="hotelinfo" categoryName="" videoId="1200036362" itemNo="10">
+                            <ImageFormat fileName="テスト" description="テスト">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200036362&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="hotelinfo" categoryName="" videoId="1200038404" itemNo="11">
+                            <ImageFormat fileName="飛行機" description="サンプル動画">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038404&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000004" categoryType="hotelinfo" categoryName="" videoId="1200004365" itemNo="12">
+                            <ImageFormat fileName="2/1IE11movie1" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200004365&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="hotelinfo" categoryName="" videoId="1200038515" itemNo="13">
+                            <ImageFormat fileName="SOK 20201229 test for Dynamic Delivery" description="トラベル旧・Video新の状態でアップロードし、トラベル管理画面で再生できるかを確認する。">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038515&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="hotelinfo" categoryName="" videoId="" itemNo="14">
+                            <ImageFormat fileName="テスト画像1" description="テスト">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/70b09cc75050fe6e0604bc64c8f49c5042426d96.82.9.26.3.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="hotelinfo" categoryName="" videoId="1200043160" itemNo="15">
+                            <ImageFormat fileName="Test_Video_PD_1" description="test">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043160&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="hotelinfo" categoryName="" videoId="1200043369" itemNo="16">
+                            <ImageFormat fileName="" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043369&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200038407" itemNo="1">
+                            <ImageFormat fileName="1202SAT" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038407&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="2">
+                            <ImageFormat fileName="目指せフォトギャラリー400枚" description="目指せフォトギャラリー400枚">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/984cde9c0275ec7ea1322723392a6f24776d91a1.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="3">
+                            <ImageFormat fileName="testtest" description="test">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/60b4ef409fa97e433fb89e658b552ab9d89b1dbc.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="4">
+                            <ImageFormat fileName="名前も知らない扉です" description="当たらない扉です">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/2c0570582db40498116107317f56cdf5679cffde.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="5">
+                            <ImageFormat fileName="Kuma_panda" description="kumapanda">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/6632e947edd6bc614aae2cf258cd3872926052fe.82.9.26.3.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="6">
+                            <ImageFormat fileName="Panda_shiratori" description="Panda_shiratori">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/3a0b87c67387a229da111ebaa00c4c6c8ebf0d36.82.9.26.3.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="7">
+                            <ImageFormat fileName="safafafafa4244##" description="42423srfserfsfsfsf##">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/e03ea1ba48519242b924ba23fdd67283dbccb317.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="8">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/2db9e407b5d38a0d39f9bc70aa32ddaae1b85288.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="9">
+                            <ImageFormat fileName="safafafafa4244##" description="42423srfserfsfsfsf##">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/49662228c262c414122ff2f79b589aea9f80dfd1.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="10">
+                            <ImageFormat fileName="safafafafa4244##" description="42423srfserfsfsfsf##">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/2472a0f3ccbec5ab9ba0252da91942390954eb10.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200043149" itemNo="11">
+                            <ImageFormat fileName="test0810" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043149&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="12">
+                            <ImageFormat fileName="テスト画像1" description="テスト">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/70b09cc75050fe6e0604bc64c8f49c5042426d96.82.9.26.3.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200038547" itemNo="13">
+                            <ImageFormat fileName="SOK 20210108 test for Dynamic Delivery202101151322" description="トラベル新・Video新の状態でアップロードし、トラベル管理画面で再生できるかを確認する。20210115132220">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038547&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="14">
+                            <ImageFormat fileName="SAT-test" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/37d353b31b7771f8f5edb56a4110045ef0faf09b.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200042733" itemNo="15">
+                            <ImageFormat fileName="testvideo20221220" description="テスト動画A">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200042733&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="16">
+                            <ImageFormat fileName="LCM焼肉" description="LCM焼肉">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/ea6901cc796ec811afadb6af6606bc5cf9916357.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200042725" itemNo="17">
+                            <ImageFormat fileName="ono_test_1214" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200042725&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="18">
+                            <ImageFormat fileName="test" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/73bbcbedd16fcadae6f08710b61ad1bfdcf69632.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="19">
+                            <ImageFormat fileName="SAT-test" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/a346d4f6894ace95c17cf192045718512e8103c9.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200038603" itemNo="20">
+                            <ImageFormat fileName="20210118 SOK DB復旧後確認用20210119174452" description="20210119174452">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038603&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="21">
+                            <ImageFormat fileName="devproxy-abolish テスト" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/2017c00700a225b058678bdaa85d626bedf9d2d1.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="22">
+                            <ImageFormat fileName="safafafafa4244##" description="42423srfserfsfsfsf##">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/978b550403e7d2bfc44bf27c57ba8cdc003ae051.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="23">
+                            <ImageFormat fileName="test" description="test">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/37826dec1e4fa4b4bcf58e0d23f81e7b6cc237ec.82.9.26.3.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="24">
+                            <ImageFormat fileName="safafafafa4244##" description="42423srfserfsfsfsf##">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/b43246c04cbe0cf23ed1b44588d0e030e16988f8.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="25">
+                            <ImageFormat fileName="safafafafa4244##" description="42423srfserfsfsfsf##">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/7b0ad7961f615d523c6faedbe13d15d2c53d928c.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="26">
+                            <ImageFormat fileName="夜景" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/62638a4d025e4680ab28de2b5f7461fefaa37621.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="27">
+                            <ImageFormat fileName="safafafafa4244##" description="42423srfserfsfsfsf##">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/53ad333cc52b9fa96d4d38ea41151e657858577a.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200038591" itemNo="28">
+                            <ImageFormat fileName="20210115 SOK新Ver再デプロイ後確認用動画" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038591&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="29">
+                            <ImageFormat fileName="PANDAPANDA" description="panda2">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/20188b7b405ef220d66ab43ad0d5a652f46e965a.82.9.26.3.gif</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="30">
+                            <ImageFormat fileName="beachinv" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/4afceb9fba3e4356fd29433f0b64808f424b88bd.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200043424" itemNo="31">
+                            <ImageFormat fileName="videoinv" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043424&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="32">
+                            <ImageFormat fileName="Pooh" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/9d4e9b407740643ea23f45c10371d03c009ed4b4.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="33">
+                            <ImageFormat fileName="right pic" description="right pic">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/5a06de366207125cbdda7228986547446e85987c.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="34">
+                            <ImageFormat fileName="middle pic" description="middle pic">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/369af76e30d672dda80671d4cd2727c5d7b2c7e7.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="35">
+                            <ImageFormat fileName="crab" description="hotel crab pic">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/7386119c9fcf34dee56bc7ab0577e073c4a217e1.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="36">
+                            <ImageFormat fileName="inv-image" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/edede586ef7bc656d109a7999ecfee829ce81468.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="37">
+                            <ImageFormat fileName="inv-image" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/9a43f8af1edf8415d6c8c0dec3434dd766d04cb2.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="38">
+                            <ImageFormat fileName="inv-image" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/506a550095a0f7ad0641594b20b337647c96bef6.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="39">
+                            <ImageFormat fileName="invimage" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/d7621e24acafe657cd7718a0e200f19364fcc907.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="40">
+                            <ImageFormat fileName="onotest01" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/20c646408635026d243a3b0be106f5d624bae1e4.82.9.26.3.jpe</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="41">
+                            <ImageFormat fileName="onotest" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/46d0a901cd8c71da7b1950c530c37fa2606dc3f8.82.9.26.3.jpe</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="42">
+                            <ImageFormat fileName="onotest_20230919" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/af1b91dc4694715cbb601f03adc1d3ccbb1795ec.82.9.26.3.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200039259" itemNo="43">
+                            <ImageFormat fileName="Video Platformテスト用" description="test">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200039259&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200038515" itemNo="44">
+                            <ImageFormat fileName="SOK 20201229 test for Dynamic Delivery" description="トラベル旧・Video新の状態でアップロードし、トラベル管理画面で再生できるかを確認する。">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038515&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200038445" itemNo="45">
+                            <ImageFormat fileName="施設紹介" description="施設紹介">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038445&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200034875" itemNo="46">
+                            <ImageFormat fileName="Legacy Travel Upload" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200034875&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200036362" itemNo="47">
+                            <ImageFormat fileName="テスト" description="テスト">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200036362&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200038404" itemNo="48">
+                            <ImageFormat fileName="飛行機" description="サンプル動画">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038404&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="49">
+                            <ImageFormat fileName="FDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDAS" description="FDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDASFDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDASFDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDASFDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDASFDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDASFDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDAS">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/84895681926c34d6bcb916c2ab4feb73ada9493e.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200043439" itemNo="50">
+                            <ImageFormat fileName="videoinv" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043439&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="1200043251" itemNo="51">
+                            <ImageFormat fileName="NEw_video_group" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043251&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="52">
+                            <ImageFormat fileName="crab1" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/2c7efb484a5fd277c040bb5cce6932e9f52568f1.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="53">
+                            <ImageFormat fileName="crab3" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/bd3b0af2ac10597a8b61394a3c364dce06bee791.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="54">
+                            <ImageFormat fileName="crab4" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/1efe189f5c59f146198434034467ce3634aea3e9.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="55">
+                            <ImageFormat fileName="crab1" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/5c715da3b6cd1fa4342a33325d7e720c7033d13b.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="56">
+                            <ImageFormat fileName="crab5" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/3ecba70779373988e4246e08060d8629705f4f24.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="57">
+                            <ImageFormat fileName="crab2" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/cbe7f1b69ccdbb7f0c57538c5e9fac8928fa847d.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="58">
+                            <ImageFormat fileName="crab7" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/0731c7b5fa6c76a7ddb80a3c257720e18be1bf80.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="59">
+                            <ImageFormat fileName="crab5" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/2f4bf6cde989d3b6a078eb6f3114bcf4ba5eda0f.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000001" categoryType="image_up" categoryName="部屋" videoId="" itemNo="60">
+                            <ImageFormat fileName="crab6 hello" description="crab6 dummy description">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/b57e6c1119ac9ae18c04ddb541198a37ff008214.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000002" categoryType="image_up" categoryName="温泉" videoId="" itemNo="1">
+                            <ImageFormat fileName="#2 Photo" description="explanation_in_media_description_nas">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/LARGE/5lvcNJ.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000002" categoryType="image_up" categoryName="温泉" videoId="" itemNo="2">
+                            <ImageFormat fileName="wenquan" description="test">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/LARGE/veZ2VD.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000002" categoryType="image_up" categoryName="温泉" videoId="1200007583" itemNo="3">
+                            <ImageFormat fileName="onsen" description="onsen">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200007583&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000002" categoryType="image_up" categoryName="温泉" videoId="" itemNo="4">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/7b39b385ab785b2d1b87c34dab2c325fa845b4cb.82.1.26.2.gif</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000002" categoryType="image_up" categoryName="温泉" videoId="" itemNo="5">
+                            <ImageFormat fileName="1234567890abcdefghij1234567890abcdefghij1234567890" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/977be824ebd270c9d15169cbf95cd3ce990542a0.82.1.26.2.gif</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000002" categoryType="image_up" categoryName="温泉" videoId="" itemNo="6">
+                            <ImageFormat fileName="写真写真写真" description="てすとてすとてすと">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/3cbd21f5abd572041f944ddefd11efd8a2df2307.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000002" categoryType="image_up" categoryName="温泉" videoId="1200001900" itemNo="7">
+                            <ImageFormat fileName="すみません文字更新しました。" description="explanation_in_media_description">
+                                <URL>http://img.travel.rakuten.co.jp/share/image_up/31571/LARGE/pnHyhF.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000002" categoryType="image_up" categoryName="温泉" videoId="" itemNo="8">
+                            <ImageFormat fileName="12345678901234567890123456789012345678901234567890" description="test bmp image">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/581cd5eb71470bd3273e9317f6c02afbb823c701.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000003" categoryType="image_up" categoryName="風呂" videoId="" itemNo="1">
+                            <ImageFormat fileName="お風呂1" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/2468c765bdd0304b993bc7d504129b521d6bf432.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000003" categoryType="image_up" categoryName="風呂" videoId="" itemNo="2">
+                            <ImageFormat fileName="お風呂2" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/0db2e7b11d29e903ff6af8b8163f3f3f4a984fb7.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000004" categoryType="image_up" categoryName="食事" videoId="1200004365" itemNo="1">
+                            <ImageFormat fileName="2/1IE11movie1" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200004365&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000004" categoryType="image_up" categoryName="食事" videoId="" itemNo="2">
+                            <ImageFormat fileName="Yakiniku" description="Yakiniku">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/acbe637816ac2f6f3adc21708b10ba30020129b7.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000004" categoryType="image_up" categoryName="食事" videoId="" itemNo="3">
+                            <ImageFormat fileName="sirasira" description="aaa">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/LARGE/YVMWYF.gif</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000005" categoryType="image_up" categoryName="宿泊プラン" videoId="1200004366" itemNo="1">
+                            <ImageFormat fileName="2/1IE11movie2" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200004366&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000005" categoryType="image_up" categoryName="宿泊プラン" videoId="" itemNo="2">
+                            <ImageFormat fileName="オタク" description="オタク">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/ee0c7e3ba004240ee188ca10973563680fff2b94.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000005" categoryType="image_up" categoryName="宿泊プラン" videoId="" itemNo="3">
+                            <ImageFormat fileName="ono_test_20221214" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/1ae6508fd160b5c32ce703aef4259b189c6fad94.82.9.26.3.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000005" categoryType="image_up" categoryName="宿泊プラン" videoId="" itemNo="4">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/2748d94b2acafc6a213aa284dc8ff13283ac6188.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000005" categoryType="image_up" categoryName="宿泊プラン" videoId="1200043176" itemNo="5">
+                            <ImageFormat fileName="testtest" description="test１">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043176&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000005" categoryType="image_up" categoryName="宿泊プラン" videoId="" itemNo="6">
+                            <ImageFormat fileName="aaa_zhusu" description="aaa">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/LARGE/V68yWd.gif</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="1">
+                            <ImageFormat fileName="クリスマス" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/ea80e6fa8ad1793b8ef9e0c8cb3bb11934b6ecb5.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="2">
+                            <ImageFormat fileName="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" description="12313">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/LARGE/UM97Oa.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="3">
+                            <ImageFormat fileName="test" description="test">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/LARGE/ljxC7e.gif</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="4">
+                            <ImageFormat fileName="テスト更新" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/a858f147236cf8a0ac515357e757bdc168304fc7.82.1.26.2.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="5">
+                            <ImageFormat fileName=" " description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/a39926f74fc56abef5ccc0d91f77e884e3d69bb4.82.1.26.2.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="6">
+                            <ImageFormat fileName="あ" description="あ">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/081364c1f3a865ad6a1393e767e337fa0e3254ea.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="1200001898" itemNo="7">
+                            <ImageFormat fileName="13.mp4" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200001898&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="8">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/258f0f1f277e52832cc3322a635baa255a6dccd6.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="9">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/1931f173b7c7ef02e47468ac75ba442092f9fd31.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="10">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/f85c69ce7a86a115c8e2e73c43c68150548ef484.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="11">
+                            <ImageFormat fileName="あ" description="あ">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/3c7a26fb9fbc3c906a312e5ec7db6ae784c8a195.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="12">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/4afcc6f9c63497f10a0287964d574ac2797be3e3.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="1200042721" itemNo="13">
+                            <ImageFormat fileName="NEW TEST FW UPD" description="NEW TEST FW UPD">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200042721&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="14">
+                            <ImageFormat fileName="PANDA" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/76a27ad324d3d8ee7d73e0dce36a9b87f1ce719c.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="15">
+                            <ImageFormat fileName="PANDA２" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/31cd82210663f0678849aa906a7bb4c1cf78cb92.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="16">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/f1003196396b9affe11586788d48183e1df828c5.82.1.26.2.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="17">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/a36684d1ff1b64b8e5779dbd7f1181b26dedfd04.82.1.26.2.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="1200043369" itemNo="18">
+                            <ImageFormat fileName="" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043369&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="19">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/3ee915ec9e7154db8c3d9770e4eea3542911117d.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="1200043263" itemNo="20">
+                            <ImageFormat fileName="" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043263&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="21">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/269efa7c26a94ba3e50eff4096054293b0d5b954.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="22">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/b449bbdd9bd677f4e694cc2349afc6a410f24d48.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="23">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/75af97f8ccbb1d8aa77fe6c1da0369ca72b31b88.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="24">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/587964fd9d929624020a92980a72ef0207e3ea47.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="25">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/914a45dbaf3064a3da646d9daf563740bef88661.82.1.26.2.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="26">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/ad8f08136a09a3ba9b693b8857f74028e4fb5fb6.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="1200001885" itemNo="27">
+                            <ImageFormat fileName="1.3gp" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200001885&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="1200001793" itemNo="28">
+                            <ImageFormat fileName="Wildlife.wmv" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200001793&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="1200001789" itemNo="29">
+                            <ImageFormat fileName="Wildlife.wmv" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200001789&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="30">
+                            <ImageFormat fileName=" " description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/f75729245a19ce80b697c4125b61a57a2ff43ad6.82.1.26.2.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="31">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/0364a927e8686fb0412e82b76dc7564686974d05.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="32">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/715f9a3b3a56e7e690f80fd6c10ca19dc9ac621f.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="1200043365" itemNo="33">
+                            <ImageFormat fileName="" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043365&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="1200043364" itemNo="34">
+                            <ImageFormat fileName="" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043364&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="1200043262" itemNo="35">
+                            <ImageFormat fileName="" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043262&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="36">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/dd19fe4a08668bb035af861ca3060070cfe99b41.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="37">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/fa650172103ac68d783e1ea931b3fff4047f79c8.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="38">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/9a0ff1303eaff8b4a06f899bb69abf4102a61632.82.1.26.2.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="39">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/dd499632e91f6d5c6c95558e41c6cda455585d10.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="40">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/29db6074809ef443191dacd285188eff4fc416f6.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="41">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/930f5eb1ee06ccb1e90203128138713c84441f11.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="42">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/3766df7961ac86f8f844afd845ab674f5196654f.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="43">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/5b09ee861125f4280ccc14dc9872fe0bc8c7ea58.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="44">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/73da3596945759ac0db171873fde34579c22621f.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="45">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/32dc5bc64488d30a01722fc64f8a227a89cd400e.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="46">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/72537177a260397fafb523cfc11f5b07e31719ab.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="47">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/fee3f190d9e534ad98411786eea0f652d7d27606.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="48">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/44aae0bde2fd618545e94fbbcfe55977c4a84ee1.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="49">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/1e8a384c3417135e94e3afdee9c31eec06067dad.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="50">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/1c5ac32e71ac84f9d5b7c75ed08b5e140c7d5745.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="51">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/a0c5a97976c587861fe89fa6611fde582bc5ab23.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="52">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/451e77e3bff1611beb175a41088021e27bc8340f.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="53">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/a62d42851d41f95730731083eb063ca0dd438aa3.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="54">
+                            <ImageFormat fileName=" " description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/a5baa919effa9999a35fa5a65161d3c7ad70f5b6.82.1.26.2.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="55">
+                            <ImageFormat fileName=" " description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/38025afdaf376422084f94dab73a2ed53991cf56.82.1.26.2.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="56">
+                            <ImageFormat fileName=" " description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/b0d72c6fd3b50875a75a5dc1cde3b16c3422b6dd.82.1.26.2.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="57">
+                            <ImageFormat fileName=" " description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/f4d5eddd6cedaa201abae5576dfea6e89e439a6b.82.1.26.2.jpeg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="10000021" categoryType="image_up" categoryName="test083001" videoId="" itemNo="1">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/4aebb9a63fbd99fdfff9ffcdeff62144ef420182.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="10000021" categoryType="image_up" categoryName="test083001" videoId="" itemNo="2">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/31571/origin/13787ee71f18ce4dc6ee8c278ca6970a2f5ebf55.82.9.26.3.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="10000021" categoryType="image_up" categoryName="test083001" videoId="1200043430" itemNo="3">
+                            <ImageFormat fileName="videoinvcorev2" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043430&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="10000022" categoryType="image_up" categoryName="Media" videoId="1200043440" itemNo="1">
+                            <ImageFormat fileName="invvid" description="">
+                                <URL>//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043440&amp;type=0</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                    </ImageItems>
+                </MultimediaDescription>
+            </MultimediaDescriptions>
+            <ContactInfos>
+                <ContactInfo>
+                    <Addresses>
+                        <Address>
+                            <!-- Optional -->
+                            <PostalCode>1000005</PostalCode>
+                            <AddressLine>東京都東京都千代田区丸の内１丁目2</AddressLine>
+                            <Area cd="01" id="japan">日本</Area>
+                            <Area cd="02" id="tokyo">東京都</Area>
+                            <Area cd="03" id="tokyo">東京２３区内</Area>
+                            <Area cd="04" id="A">東京駅・銀座・秋葉原・東陽町・葛西</Area>
+                        </Address>
+                    </Addresses>
+                </ContactInfo>
+            </ContactInfos>
+            <Promotions>
+                <!-- ポイント加算、マイレージ加算 -->
+
+            </Promotions>
+            <PetInfos>
+                <PetInfo>ワンちゃん、ネコちゃんと一緒に旅行したい！！そんな方いっぱいいらっしゃると思います。私たちも猫を2匹飼っているので一緒に泊まれる宿を探すのにいつも苦労しています。ペット宿泊可能でも同室不可だったり…。そんな思いを胸に今回ペット同室宿泊可能プランを用意させていただきました。宿目の前に駐車場（有料）もあるので車でお越しの方にも便利です。是非この機会に家族全員での旅行をお楽しみください！</PetInfo>
+                <Pictures>
+                    <Picture>31571_1.jpg</Picture>
+                    <Picture>31571_2.jpg</Picture>
+                </Pictures>
+                <PetTypes>
+                    <PetType okFlg="1">小型犬</PetType>
+                    <PetType okFlg="1">中型犬</PetType>
+                    <PetType okFlg="0">大型犬</PetType>
+                    <PetType okFlg="0">超大型犬</PetType>
+                    <PetType okFlg="1">猫</PetType>
+                    <PetType okFlg="0">小動物</PetType>
+                </PetTypes>
+                <StayLocations separateRoom="0">
+                    <StayLocation okFlg="0">屋外のみ</StayLocation>
+                    <StayLocation okFlg="0">併設ペットホテル</StayLocation>
+                    <StayLocation okFlg="0">別室預かり</StayLocation>
+                    <Other okFlg="0"></Other>
+                </StayLocations>
+                <RoomType>和室（個室2人部屋）</RoomType>
+                <Fee free="1">1匹は部屋料金に含まれる。2匹目は3000円追加。</Fee>
+                <Facilitys>
+                    <Facility okFlg="0">ドッグラン</Facility>
+                    <Facility okFlg="0">	ペット預り</Facility>
+                    <Facility okFlg="0">ペットと入れる温泉</Facility>
+                    <Facility okFlg="0">アジリティ</Facility>
+                    <Facility okFlg="0">足洗い場</Facility>
+                    <Other okFlg="1">必要なものはご持参ください。</Other>
+                </Facilitys>
+                <Terms>
+                    <Term okFlg="1">トイレのしつけ</Term>
+                    <Term okFlg="1">予防接種</Term>
+                    <Term okFlg="1">無駄吠えしない</Term>
+                    <Term okFlg="0">留守番ができる</Term>
+                    <Term okFlg="1">発情中は不可</Term>
+                    <Other okFlg="0"></Other>
+                </Terms>
+                <Locations>
+                    <Location okFlg="0">食堂</Location>
+                    <Location okFlg="0">ロビー</Location>
+                    <Location okFlg="0">プレイルーム</Location>
+                    <Other okFlg="1">客室、併設の1階のバー</Other>
+                </Locations>
+                <BringingItems>
+                    <BringingItem okFlg="0">カラー(首輪)</BringingItem>
+                    <BringingItem okFlg="0">リード</BringingItem>
+                    <BringingItem okFlg="1">食器</BringingItem>
+                    <BringingItem okFlg="1">フード</BringingItem>
+                    <BringingItem okFlg="0">おやつ</BringingItem>
+                    <BringingItem okFlg="1">おもちゃ</BringingItem>
+                    <BringingItem okFlg="1">トイレシーツ</BringingItem>
+                    <BringingItem okFlg="0">粘着テープ</BringingItem>
+                    <BringingItem okFlg="0">消臭スプレー</BringingItem>
+                    <BringingItem okFlg="0">足拭きタオル</BringingItem>
+                    <BringingItem okFlg="0">バスタオル</BringingItem>
+                    <BringingItem okFlg="0">毛布やマット(シーツ) </BringingItem>
+                    <BringingItem okFlg="0">ケージ</BringingItem>
+                    <Other okFlg="1">宿側でのペット受け入れ準備はございませんので必要な物は全てお客様にてご持参ください。</Other>
+                </BringingItems>
+                <ArroundFacility>近隣にペット同伴可能レストランあり（徒歩15分）</ArroundFacility>
+                <ShowPet>看板猫が2匹います。（客室には入りません）</ShowPet>
+                <Please>ホステル（ゲストハウス）内の個室での宿泊となります。他のお客様が宿泊されている場合がございますので夜23時　朝9時までは静かにしていただけるようご協力お願いいたします。また予約後に別途メールにて「ペット同伴注意事項書」を送らせていただきますので必ずご確認いただいてからご宿泊ください。</Please>
+                <Other>チェックアウトは宿泊者様立会いの下、施設の破損物がないか等の確認をさせていただきます。粗相、汚れ、破損等がございます場合は実費損害をご請求させていただきますのでご了承ください。</Other>
+            </PetInfos>
+            <SpaInfos>
+                <Title>良温泉</Title>
+                <SpaInfo>hello2</SpaInfo>
+                <Pictures>
+                    <Picture>31571_1.jpg</Picture>
+                    <Picture>1145_1.jpg</Picture>
+                    <Picture>images.jpg</Picture>
+                </Pictures>
+                <Kinds>
+                    <Kind id="01">温泉</Kind>
+                    <Kind id="06">天然温泉</Kind>
+                    <Kind id="07">人工温泉</Kind>
+                </Kinds>
+                <SpringQualities>
+                    <SpringQuality>硫黄塩泉</SpringQuality>
+                    <SpringQuality>カルシウム硫酸塩泉</SpringQuality>
+                    <SpringQuality>硫酸温泉</SpringQuality>
+                </SpringQualities>
+                <Efficacies>
+                    <Efficacy>アトピー・湿疹</Efficacy>
+                    <Efficacy>胃腸病</Efficacy>
+                    <Efficacy>痛風</Efficacy>
+                </Efficacies>
+                <Views>
+                    <View>海が見える</View>
+                    <View>川沿い</View>
+                    <View>山が見える</View>
+                </Views>
+                <Equipments>
+                    <Equipment>有料テレビ</Equipment>
+                    <Equipment>インターネット接続(LAN形式)</Equipment>
+                    <Equipment>インターネット接続(無線LAN形式)</Equipment>
+                    <Equipment>インターネット接続(一部、LAN形式)</Equipment>
+                    <Equipment>インターネット接続(一部、無線LAN形式)</Equipment>
+                    <Equipment>ズボンプレッサー(貸出)</Equipment>
+                    <Equipment>ベビーベッド</Equipment>
+                </Equipments>
+                <BathTime>11:00 ~ 24:00</BathTime>
+                <SpaVillageName></SpaVillageName>
+            </SpaInfos>
+            <EnqueteInfo>
+                <Count>7750</Count>
+                <Total>5.0</Total>
+            </EnqueteInfo>
+            <SustainableCertification>
+                <Certification>サステナブルトラベル★</Certification>
+            </SustainableCertification>
+            <SustainableGroupDescription>
+                <Description> TQABUG-15010 test</Description>
+            </SustainableGroupDescription>
+            <SustainableInfos>
+            </SustainableInfos>
+            <SustainablePreviews>
+            </SustainablePreviews>
+        </HotelDescriptiveContent>
+    </HotelDescriptiveContents>
+</OTA_HotelDescriptiveInfoRS>

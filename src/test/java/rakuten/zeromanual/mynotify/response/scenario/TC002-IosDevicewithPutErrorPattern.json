@@ -1,0 +1,6 @@
+{
+  "Header": {
+    "Status": "ClientError",
+    "StatusMsg": "EasyIDは長整数でなければいけません。"
+  }
+}

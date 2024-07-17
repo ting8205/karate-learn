@@ -1,0 +1,6 @@
+{
+  "Header": {
+    "Status": "ClientError",
+    "StatusMsg": "EasyIDは必須です。"
+  }
+}

@@ -1,0 +1,3 @@
+testcase,path,rakuten_oauth_api,akey,apiClientId,easyId,deviceToken,pushType,refResponse
+TC001-IosDevicewithPutNormalPattern,/mynotify/iosDevice/put/,rakutentravel_myapi,iv6k8rA,travel_ios,39209872,7d196b4f6d626982fdb1af46fb8f0b2ba4e9cec058103e3cc0added161722e39,0,#(read("response/scenario1/TC001-IosDevicewithPutNormalPattern.json"))
+TC002-IosDevicewithPutErrorPattern,/mynotify/iosDevice/put/,rakutentravel_myapi,iv6k8rA,travel_ios,aaa,7d196b4f6d626982fdb1af46fb8f0b2ba4e9cec058103e3cc0added161722e39,0,#(read("response/scenario1/TC002-IosDevicewithPutErrorPattern.json"))

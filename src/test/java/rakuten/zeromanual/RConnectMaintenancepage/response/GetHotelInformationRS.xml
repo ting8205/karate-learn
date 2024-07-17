@@ -1,0 +1,17 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <ns2:GetHotelInformationRS xmlns:ns2="http://travel.rakuten.co.jp/rconnect/schemas">
+            <ns2:result>
+                <ns2:status>0</ns2:status>
+            </ns2:result>
+            <ns2:hotelNo>#(hotelNo)</ns2:hotelNo>
+            <ns2:bookingAcceptablePeriodHotelInfo>
+                <ns2:inventoryCutoffTime>
+                    <ns2:daysBeforeCheckIn>#(daysBeforeCheckIn)</ns2:daysBeforeCheckIn>
+                    <ns2:endTime>#(endTime)</ns2:endTime>
+                </ns2:inventoryCutoffTime>
+            </ns2:bookingAcceptablePeriodHotelInfo>
+        </ns2:GetHotelInformationRS>
+    </soapenv:Body>
+</soapenv:Envelope>

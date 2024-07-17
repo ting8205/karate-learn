@@ -1,0 +1,147 @@
+{
+  "hotel": {
+    "hotelCode": 96526,
+    "providerId": "0336628b-0846-4942-9f30-ff2b23e0de30",
+    "hotelName": "LCM９６５２６",
+    "hotelKanaName": "LCM９６５２６",
+    "hotelSpecial": "LCM９６５２６(LCM９６５２６)<br>Shinagawa Sea Side",
+    "hotelImageUrl": "https://trvimg.r10s.jp/share/HOTEL/96526/96526.jpg",
+    "access": "Shinagawa Sea Side",
+    "parkingInformation": null,
+    "hotelTelephone": "111111111111",
+    "hotelFax": "1111111111111",
+    "latitude": 37.5665,
+    "longitude": 126.9779,
+    "groups": [],
+    "services": [],
+    "facilityNotice": [],
+    "facilities": [],
+    "privileges": [],
+    "mealPlaces": {
+      "breakfast": [],
+      "dinner": []
+    },
+    "attentionInfo": [],
+    "otherNotes": [],
+    "postalCode": "01000",
+    "address": "海外ソウル",
+    "largeArea": "kaigai",
+    "largeAreaName": "海外",
+    "middleArea": "Korea",
+    "middleAreaName": "韓国",
+    "smallArea": "seoul",
+    "smallAreaName": "ソウル",
+    "detailArea": null,
+    "detailAreaName": null,
+    "roomInfo": {
+      "numberOfGuestRooms": 10,
+      "amenities": [],
+      "accessibility": []
+    },
+    "policyInfo": {
+      "cancelPolicies": [],
+      "checkinTime": "08:00",
+      "checkoutTime": "23:00",
+      "lastCheckinTime": null,
+      "availableCreditCards": [],
+      "aboutCreditCardNote": null,
+      "attentionInfo": [],
+      "mileage": null,
+      "point": null
+    },
+    "spotInfo": {
+      "leisureSpot": [],
+      "nearSpot": [],
+      "popularSpot": [],
+      "skiSpot": []
+    },
+    "imageItems": [
+      {
+        "category": "",
+        "categoryType": "DETAIL1",
+        "categoryName": "",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/HOTEL/96526/96526.jpg"
+      },
+      {
+        "category": "99999999",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/96526/origin/65edf90417c63e5226416643da1f676ea50327ed.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "",
+        "fileName": "Trust me",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/96526/origin/16255b1d2300e85e80959bfb0551089f9e26b8e9.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "Trust me",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/96526/origin/16255b1d2300e85e80959bfb0551089f9e26b8e9.82.1.26.2.jpg"
+      }
+    ],
+    "petInfo": {
+      "description": null,
+      "pictures": null,
+      "acceptablePetTypes": null,
+      "stayLocations": [],
+      "otherStayLocations": null,
+      "roomType": null,
+      "fee": null,
+      "isChargeFree": null,
+      "facilities": null,
+      "terms": [],
+      "otherTerms": null,
+      "acceptableArea": [],
+      "otherAcceptableArea": null,
+      "requiredItems": [],
+      "otherRequiredItems": null,
+      "aroundFacilty": null,
+      "mascotAnimal": null,
+      "attention": null,
+      "remarks": null
+    },
+    "spaInfo": {
+      "title": null,
+      "description": null,
+      "pictures": null,
+      "types": [],
+      "qualities": [],
+      "efficacies": [],
+      "views": null,
+      "bathTime": null
+    },
+    "ratingInfo": null,
+    "faqs": [],
+    "premiumType": 0,
+    "memberRankBenefits": null,
+    "invoiceQualified": false,
+    "sdgs": {
+      "certification": "",
+      "hotelDescr": "",
+      "firstFeatures": []
+    },
+    "hmtwntaxCert": false,
+    "basicAddInfo": [],
+    "facilitiesAndServicesAddInfo": [],
+    "isRMPActive": false,
+    "rmpUrl": null,
+    "hotelMembershipExchange": 0,
+    "rmpactive": false,
+    "isPreferred": false,
+    "isRMPMyPageActive": false
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "status": "success",
+    "results": {
+        "hotelNo": 31571,
+        "inventories": [
+            {
+                "date": "2024-04-27",
+                "allotment": 3030,
+                "reservation": 0,
+                "totalReservations": 0
+            }
+        ]
+    }
+}

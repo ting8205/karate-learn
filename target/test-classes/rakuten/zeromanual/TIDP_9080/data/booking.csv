@@ -1,0 +1,3 @@
+testcase,ISOCountry,ID,HotelCode,refResponse
+1st Level,US,22315029474513,10123457004020,#(read("response/scenario/1st Level.xml"))
+No meals,US,22315029474511,10123457004020,#(read("response/scenario/no meal.xml"))

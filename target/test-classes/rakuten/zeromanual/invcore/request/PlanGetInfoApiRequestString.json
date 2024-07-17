@@ -1,0 +1,22 @@
+{
+    "statusInfo": {
+        "roomTargets": [
+            "#(roomTargets)"
+        ],
+        "status": "1"
+    },
+    "requestHead": {
+        "hotelNo": #(parseInt(hotelNo)),
+        "targetLang": [
+            "ja_JP"
+        ],
+        "clientType": 1,
+        "groupCode": "",
+        "ipAddress": "100.73.66.174"
+    },
+    "planTarget": {
+        "planId": #(parseInt(planId)),
+        "category": "1",
+        "action": 2
+    }
+}

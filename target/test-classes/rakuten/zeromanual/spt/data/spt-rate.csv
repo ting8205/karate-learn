@@ -1,0 +1,4 @@
+testcase,fromRate,toRate,refResponse
+TC001-RequestWithRightRate,JPY,KRW,#(read("response/scenario/TC001-RequestWithRightRate.json"))
+TC002-ServerError,KTT,J12,#(read("response/scenario/TC002-ServerError.json"))
+TC003-RequestWithCurrencyNotFound,CNA,JPY,#(read("response/scenario/TC003-RequestWithCurrencyNotFound.json"))

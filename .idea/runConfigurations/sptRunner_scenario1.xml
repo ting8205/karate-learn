@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sptRunner.scenario1" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="test-automation-karate" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="rakuten.zeromanual.spt.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="rakuten.zeromanual.spt" />
+    <option name="MAIN_CLASS_NAME" value="rakuten.zeromanual.spt.sptRunner" />
+    <option name="METHOD_NAME" value="scenario1" />
+    <option name="TEST_OBJECT" value="method" />
+    <option name="VM_PARAMETERS" value="mvn test -Dtest=&quot;sptRunner#scenario1&quot;  -D&quot;api.proxy&quot;=http://stg-proxy.travel.rakuten.co.jp:9050 -Dreport=C:\Users\os-tingting.liu\Documents\report" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

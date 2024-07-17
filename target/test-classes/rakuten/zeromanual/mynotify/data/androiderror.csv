@@ -1,0 +1,4 @@
+testcase,path,rakuten_oauth_api,akey,apiClientId,easyId,method
+TC002-AndroidDevicewithputErrorPattern,/mynotify/deviceLogin/put/,,iv6k8rA,travel_android,aaa,
+TC004-AndroidDevicewithindexErrorPattern,/mynotify/deviceLogin/index,rakutentravel_myapi,aLknnlK,travel_android,Ab,put
+TC006-AndroidDevicewithdeleteErrorPattern,/mynotify/deviceLogin/delete,rakutentravel_myapi,aLknnlK,travel_android,aaa,delete

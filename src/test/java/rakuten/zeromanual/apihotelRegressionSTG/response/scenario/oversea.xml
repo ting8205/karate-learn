@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OTA_HotelDescriptiveInfoRS PrimaryLangID="JP" TimeStamp="2024-06-06T14:12:06" Version="0.0" xmlns="http://www.opentravel.org/OTA/2003/05" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opentravel.org/OTA/2003/05 ../xsd/OTA_HotelDescriptiveInfoRS.xsd ">
+    <Success />
+    <HotelDescriptiveContents>
+        <HotelDescriptiveContent>
+            <HotelInfo
+                    hotelStatusCode="0"
+                    hotelStatus="公開中"
+                    domestic="KAIGAI"
+                    eki="Shinagawa Sea Side"
+                    hotelCategory="KAIGAI"
+                    hotelDesc="LCM９６５２６(LCM９６５２６)、Shinagawa Sea Side"
+                    hotelKana="LCM９６５２６"
+                    hotelName="LCM９６５２６"
+                    hotelNo="96526"
+                    img="https://trvimg.r10s.jp/share/HOTEL/96526/96526.jpg"
+                    ken=""
+                    logoFlg="0"
+                    petDelFlg=""
+                    platinumFlg=""
+                    premiumFlg=""
+                    rank="null"
+                    stateCd="0"
+                    tabimadoDelFlg=""
+                    teikei="99999999999"
+                    tikuChu="Korea"
+                    tikuDai="kaigai"
+                    tikuSai=""
+                    tikuShou="seoul"
+                    toukouDelFlg="0"
+                    hotelTel="111111111111"
+                    hotelFax="1111111111111"
+                    hotelMaxRoom="10"
+                    hotelParking=""
+                    hotelBikou=""
+                    hotelNameImageFilePath=""
+                    providerId="0336628b-0846-4942-9f30-ff2b23e0de30"
+                    isPreferred="0"
+                    hmtwntaxCert="0"
+            >
+                <Descriptions>
+                    <DescriptiveText>LCM９６５２６(LCM９６５２６)&lt;br&gt;Shinagawa Sea Side</DescriptiveText>
+                </Descriptions>
+                <HotelFeatures>
+                    <DescriptiveText></DescriptiveText>
+                </HotelFeatures>
+                <Position latitude="" longitude=""
+                          latitude2="37.5665" longitude2="126.9779" />
+                <!-- グループ -->
+                <Groups>
+                </Groups>
+                <!-- 館内設備  -->
+                <Services>
+                </Services>
+                <!-- 特典  -->
+                <Privileges>
+                </Privileges>
+                <!-- 食事の場所  -->
+                <MealPlaces>
+                    <Breakfast>
+                    </Breakfast>
+                    <Dinner>
+                    </Dinner>
+                </MealPlaces>
+                <!-- カード  -->
+                <Cards>
+                </Cards>
+                <!-- 施設基本情報 追加情報  -->
+                <BaseAddInfos>
+                </BaseAddInfos>
+                <!-- その他設備 サービス 追加情報  -->
+                <FacilitiesAndServicesAddInfo>
+                </FacilitiesAndServicesAddInfo>
+                <HotelTypes>
+                </HotelTypes>
+                <!-- 条件・注意事項  -->
+                <AttentionDatas>
+                </AttentionDatas>
+                <!-- その他  -->
+                <OtherDatas>
+                </OtherDatas>
+            </HotelInfo>
+            <FacilityInfo>
+                <!-- 部屋設備・備品 -->
+                <GuestRooms>
+                    <GuestRoom>
+                        <Amenities>
+                        </Amenities>
+                    </GuestRoom>
+                </GuestRooms>
+                <!-- バリアフリー情報 -->
+                <Barrier-frees>
+                </Barrier-frees>
+            </FacilityInfo>
+            <Policies>
+                <Policy>
+                    <CancelPolicy>
+                        <CancelPenalty>
+                            <Deadline offsetTimeUnit="" offsetDropTime=""/>
+                            <AmountPercent percent="" />
+                            <PenaltyDescription language="jp">
+                                <Text>※チェックイン日や宿泊期間によって予約に適用されるキャンセルポリシーが決まります。予約成立時の内容を必ずご確認ください。</Text>
+                            </PenaltyDescription>
+                        </CancelPenalty>
+                    </CancelPolicy>
+                    <PolicyInfo checkInTime="08:00" checkOutTime="23:00" checkInLastTime="">
+                        <Description></Description>
+                    </PolicyInfo>
+                    <AttentionInfos>
+                    </AttentionInfos>
+                </Policy>
+            </Policies>
+            <AreaInfo>
+                <Attractions>
+                    <!-- 周辺のレジャー -->
+                    <!-- 周辺の観光スポット -->
+                    <!-- 周辺の人気観光スポット -->
+                    <!-- 周辺のスキー場 -->
+
+                </Attractions>
+            </AreaInfo>
+            <MultimediaDescriptions>
+                <MultimediaDescription>
+                    <ImageItems>
+                        <ImageItem category="" categoryType="DETAIL1" categoryName="" videoId="" itemNo="0">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/HOTEL/96526/96526.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="99999999" categoryType="hotelinfo" categoryName="" videoId="" itemNo="1">
+                            <ImageFormat fileName="" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/96526/origin/65edf90417c63e5226416643da1f676ea50327ed.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="hotelinfo" categoryName="" videoId="" itemNo="2">
+                            <ImageFormat fileName="Trust me" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/96526/origin/16255b1d2300e85e80959bfb0551089f9e26b8e9.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                        <ImageItem category="00000000" categoryType="image_up" categoryName="その他" videoId="" itemNo="1">
+                            <ImageFormat fileName="Trust me" description="">
+                                <URL>https://trvimg.r10s.jp/share/image_up/96526/origin/16255b1d2300e85e80959bfb0551089f9e26b8e9.82.1.26.2.jpg</URL>
+                            </ImageFormat>
+                        </ImageItem>
+                    </ImageItems>
+                </MultimediaDescription>
+            </MultimediaDescriptions>
+            <ContactInfos>
+                <ContactInfo>
+                    <Addresses>
+                        <Address>
+                            <!-- Optional -->
+                            <PostalCode>01000</PostalCode>
+                            <AddressLine>海外ソウル</AddressLine>
+                            <Area cd="01" id="kaigai">海外</Area>
+                            <Area cd="02" id="Korea">韓国</Area>
+                            <Area cd="03" id="seoul">ソウル</Area>
+                        </Address>
+                    </Addresses>
+                </ContactInfo>
+            </ContactInfos>
+            <Promotions>
+                <!-- ポイント加算、マイレージ加算 -->
+
+            </Promotions>
+            <SustainableCertification>
+                <Certification></Certification>
+            </SustainableCertification>
+            <SustainableGroupDescription>
+                <Description></Description>
+            </SustainableGroupDescription>
+            <SustainableInfos>
+            </SustainableInfos>
+            <SustainablePreviews>
+            </SustainablePreviews>
+        </HotelDescriptiveContent>
+    </HotelDescriptiveContents>
+</OTA_HotelDescriptiveInfoRS>

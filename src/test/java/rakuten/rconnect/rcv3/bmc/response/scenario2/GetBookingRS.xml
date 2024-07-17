@@ -1,0 +1,102 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <ns2:GetBookingRS xmlns:ns2="http://travel.rakuten.co.jp/rconnect/schemas">
+            <ns2:result>
+                <ns2:status>0</ns2:status>
+            </ns2:result>
+            <ns2:hotelNo>#(hotelId)</ns2:hotelNo>
+            <ns2:numberOfBookingData>1</ns2:numberOfBookingData>
+            <ns2:booking>
+                <ns2:bookingChannel>11</ns2:bookingChannel>
+                <ns2:pointOfSales>1</ns2:pointOfSales>
+                <ns2:salesPointMISC>宿泊プラン</ns2:salesPointMISC>
+                <ns2:bookingNo>#(reservationId)</ns2:bookingNo>
+                <ns2:bookingState>#(bookingState)</ns2:bookingState>
+                <ns2:bookingReceptionDateTime>#regex \d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}\+09:00</ns2:bookingReceptionDateTime>
+                <ns2:cancelDateTime>#regex \d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}\+09:00</ns2:cancelDateTime>
+                <ns2:bookingNoBeforeReducingNights/>
+                <ns2:bookingNoAfterReducingNights/>
+                <ns2:schedule>
+                    <ns2:checkinDate>#regex \d{4}-\d{2}-\d{2}\+09:00</ns2:checkinDate>
+                    <ns2:checkoutDate>#regex \d{4}-\d{2}-\d{2}\+09:00</ns2:checkoutDate>
+                    <ns2:accommodationDate>#regex \d{4}-\d{2}-\d{2}\+09:00</ns2:accommodationDate>
+                    <ns2:accommodationDate>#regex \d{4}-\d{2}-\d{2}\+09:00</ns2:accommodationDate>
+                </ns2:schedule>
+                <ns2:bookedRoomCode>jrdproom2</ns2:bookedRoomCode>
+                <ns2:bookedRateType>1</ns2:bookedRateType>
+                <ns2:bookedRoomName>Ngoc Test Room Coupon 1</ns2:bookedRoomName>
+                <ns2:bookedPlanId>48479</ns2:bookedPlanId>
+                <ns2:bookedPlanName>Ngoc Test Plan Coupon 1</ns2:bookedPlanName>
+                <ns2:planCategory>0</ns2:planCategory>
+                <ns2:bookedPerson>
+                    <ns2:givenNameAndSurName>Bui Ngoc</ns2:givenNameAndSurName>
+                    <ns2:givenNameAndSurNameKana>ー ー</ns2:givenNameAndSurNameKana>
+                    <ns2:phoneNumber>080-3179-6739</ns2:phoneNumber>
+                    <ns2:noteForReference>楽天トラベルボーナスプログラムレベル 1</ns2:noteForReference>
+                </ns2:bookedPerson>
+                <ns2:lodgerInfo>
+                    <ns2:nameOfRepresentative>#(`${lastName} ${firstName}`)</ns2:nameOfRepresentative>
+                    <ns2:contactPhoneNoOfRepresentative>#(phone)</ns2:contactPhoneNoOfRepresentative>
+                    <ns2:checkinTime>#(checkInTime)</ns2:checkinTime>
+                    <ns2:totalNumberOfLodger>1</ns2:totalNumberOfLodger>
+                    <ns2:numberOfAdult>1</ns2:numberOfAdult>
+                    <ns2:numberOfMale>0</ns2:numberOfMale>
+                    <ns2:numberOfFemale>1</ns2:numberOfFemale>
+                </ns2:lodgerInfo>
+                <ns2:totalBookingRate>
+                    <ns2:rateValue>8000</ns2:rateValue>
+                    <ns2:taxAndServiceFeeCondition>1</ns2:taxAndServiceFeeCondition>
+                    <ns2:currencyCode>JPY</ns2:currencyCode>
+                </ns2:totalBookingRate>
+                <ns2:dailyRateCondition>
+                    <ns2:accommodationDate>#regex \d{4}-\d{2}-\d{2}\+09:00</ns2:accommodationDate>
+                    <ns2:accommodationRateValue>4000</ns2:accommodationRateValue>
+                    <ns2:taxAndServiceFeeCondition>1</ns2:taxAndServiceFeeCondition>
+                    <ns2:totalMealValue>0</ns2:totalMealValue>
+                    <ns2:cancelDateTime>#regex \d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}\+09:00</ns2:cancelDateTime>
+                    <ns2:currencyCode>JPY</ns2:currencyCode>
+                    <ns2:rateCalculationFormula>[大人:4000円×1＝4000円]</ns2:rateCalculationFormula>
+                    <ns2:mealDetail>
+                        <ns2:mealAgeGroup>3</ns2:mealAgeGroup>
+                        <ns2:mealKind>1</ns2:mealKind>
+                        <ns2:isIncludedRate>true</ns2:isIncludedRate>
+                        <ns2:isSelectable>false</ns2:isSelectable>
+                    </ns2:mealDetail>
+                    <ns2:mealDetail>
+                        <ns2:mealAgeGroup>3</ns2:mealAgeGroup>
+                        <ns2:mealKind>3</ns2:mealKind>
+                        <ns2:isIncludedRate>true</ns2:isIncludedRate>
+                        <ns2:isSelectable>false</ns2:isSelectable>
+                    </ns2:mealDetail>
+                </ns2:dailyRateCondition>
+                <ns2:dailyRateCondition>
+                    <ns2:accommodationDate>#regex \d{4}-\d{2}-\d{2}\+09:00</ns2:accommodationDate>
+                    <ns2:accommodationRateValue>4000</ns2:accommodationRateValue>
+                    <ns2:taxAndServiceFeeCondition>1</ns2:taxAndServiceFeeCondition>
+                    <ns2:totalMealValue>0</ns2:totalMealValue>
+                    <ns2:cancelDateTime>#regex \d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}\.\d{3}\+09:00</ns2:cancelDateTime>
+                    <ns2:currencyCode>JPY</ns2:currencyCode>
+                    <ns2:rateCalculationFormula>[大人:4000円×1＝4000円]</ns2:rateCalculationFormula>
+                    <ns2:mealDetail>
+                        <ns2:mealAgeGroup>3</ns2:mealAgeGroup>
+                        <ns2:mealKind>1</ns2:mealKind>
+                        <ns2:isIncludedRate>true</ns2:isIncludedRate>
+                        <ns2:isSelectable>false</ns2:isSelectable>
+                    </ns2:mealDetail>
+                    <ns2:mealDetail>
+                        <ns2:mealAgeGroup>3</ns2:mealAgeGroup>
+                        <ns2:mealKind>3</ns2:mealKind>
+                        <ns2:isIncludedRate>true</ns2:isIncludedRate>
+                        <ns2:isSelectable>false</ns2:isSelectable>
+                    </ns2:mealDetail>
+                </ns2:dailyRateCondition>
+                <ns2:paymentCondition>
+                    <ns2:usedPaymentMethod>1</ns2:usedPaymentMethod>
+                    <ns2:pointPaymentAmount>0</ns2:pointPaymentAmount>
+                </ns2:paymentCondition>
+                <ns2:pointToBeAlloted>0</ns2:pointToBeAlloted>
+            </ns2:booking>
+        </ns2:GetBookingRS>
+    </soapenv:Body>
+</soapenv:Envelope>

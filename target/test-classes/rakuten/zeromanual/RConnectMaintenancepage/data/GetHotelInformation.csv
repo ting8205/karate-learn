@@ -1,0 +1,13 @@
+testCase,hotelNo,daysBeforeCheckIn,endTime,refStatusStr,requestPath,responsePath
+Positive - 1,102771,14,0,200,request/GetHotelInformationRQ.xml,response/GetHotelInformationRS.xml
+Positive - 2,107840,14,23,200,request/GetHotelInformationRQ.xml,response/GetHotelInformationRS.xml
+Positive - 3,107841,0,0,200,request/GetHotelInformationRQ.xml,response/GetHotelInformationRS.xml
+Positive - 4,106011,0,23,200,request/GetHotelInformationRQ.xml,response/GetHotelInformationRS.xml
+Positive - 5,107844,-1,24,200,request/GetHotelInformationRQ.xml,response/GetHotelInformationRS.xml
+Positive - 6,107842,-1,29,200,request/GetHotelInformationRQ.xml,response/GetHotelInformationRS.xml
+Positive - 7,107843,14,0,200,request/GetHotelInformationRQ.xml,response/GetHotelInformationRS.xml
+Positive - 8,105996,14,23,200,request/GetHotelInformationRQ.xml,response/GetHotelInformationRS.xml
+Positive - 9,106005,0,0,200,request/GetHotelInformationRQ.xml,response/GetHotelInformationRS.xml
+Positive - 10,104546,0,23,200,request/GetHotelInformationRQ.xml,response/GetHotelInformationRS.xml
+Positive - 11,104555,-1,24,200,request/GetHotelInformationRQ.xml,response/GetHotelInformationRS.xml
+Positive - 12,104597,-1,29,200,request/GetHotelInformationRQ.xml,response/GetHotelInformationRS.xml

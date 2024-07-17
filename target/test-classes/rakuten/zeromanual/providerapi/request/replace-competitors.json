@@ -1,0 +1,7 @@
+[
+    {
+        "op":"replace",
+        "path":"/competitors",
+        "value":["e359e794-8c6c-4fc7-b0c7-f929bd51bc88"]
+    }
+]

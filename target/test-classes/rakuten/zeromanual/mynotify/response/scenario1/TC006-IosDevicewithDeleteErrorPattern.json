@@ -1,0 +1,6 @@
+{
+  "Header": {
+    "Status": "ClientError",
+    "StatusMsg": "デバイストークンは必須です。"
+  }
+}

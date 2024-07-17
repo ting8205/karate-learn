@@ -1,0 +1,10 @@
+<n1:OTA_ReadRQ xmlns:n1="http://www.opentravel.org/OTA/2003/05" EchoToken="3" PrimaryLangID="jpn" Version="5.0">
+    <n1:POS>
+        <n1:Source ISOCountry="(#ISOCountry)"/>
+    </n1:POS>
+    <n1:UniqueID ID="(#ID)" Type="14"/>
+    <n1:ReadRequests>
+        <n1:HotelReadRequest HotelCode="(#HotelCode)">
+        </n1:HotelReadRequest>
+    </n1:ReadRequests>
+</n1:OTA_ReadRQ>

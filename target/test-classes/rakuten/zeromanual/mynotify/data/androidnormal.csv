@@ -1,0 +1,4 @@
+testcase,path,rakuten_oauth_api,akey,apiClientId,easyId,method,refResponse
+TC001-AndroidDevicewithputNormalPattern,/mynotify/deviceLogin/put/,,iv6k8rA,travel_android,39209872,,#(read("response/scenario2/TC001-AndroidDevicewithputNormalPattern.json"))
+TC003-AndroidDevicewithindexNormalPattern,/mynotify/deviceLogin/index,rakutentravel_myapi,aLknnlK,travel_android,39209872,put,#(read("response/scenario2/TC003-AndroidDevicewithindexNormalPattern.json"))
+TC005-AndroidDevicewithdeleteNormalPattern,/mynotify/deviceLogin/delete,rakutentravel_myapi,aLknnlK,travel_android,39209872,delete,#(read("response/scenario2/TC005-AndroidDevicewithdeleteNormalPattern.json"))

@@ -1,0 +1,2611 @@
+{
+  "hotel": {
+    "hotelCode": 31571,
+    "providerId": "e1f62f18-484a-407f-ae23-8edc6efb13f0",
+    "hotelName": "[STG]　楽天トラベル1　18F",
+    "hotelKanaName": "らくてんとらべる１８かい",
+    "hotelSpecial": "[STG]　楽天トラベル1　18F<br>ビーチは目の前！海と山に囲まれた温泉リゾート。四季彩ダイニングや個室料亭で島の恵みを心ゆくまで。<br>xxxxJR日豊本線日南駅よりバス10分、車5分_TEST UPDATE<br>駐車場:ビーチは目の前！",
+    "hotelImageUrl": "https://trvimg.r10s.jp/share/HOTEL/31571/31571.jpg",
+    "access": "xxxxJR日豊本線日南駅よりバス10分、車5分_TEST UPDATE",
+    "parkingInformation": "ビーチは目の前！",
+    "hotelTelephone": "03-9999-9999",
+    "hotelFax": "03-9999-9999",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "groups": [
+      {
+        "group": {
+          "code": "AC",
+          "name": "アークホテルグループ"
+        }
+      }
+    ],
+    "services": [
+      "クリーニングサービス",
+      "パソコン利用可",
+      "ワープロ利用可",
+      "ファックス送信可",
+      "E-Mail送信可",
+      "マッサージサービス",
+      "外貨両替",
+      "ベビーシッター",
+      "駐車場あり",
+      "駅から徒歩5分以内"
+    ],
+    "facilityNotice": [
+      "1234",
+      "1234",
+      "1234"
+    ],
+    "facilities": [
+      "コンビニエンスストア",
+      "ドラッグストア",
+      "麻雀室",
+      "卓球",
+      "ミニキッチン",
+      "スキー乾燥室",
+      "ギフトショップ",
+      "屋内プール"
+    ],
+    "privileges": [
+      "モーニングコーヒーサービス",
+      "test amenity other"
+    ],
+    "mealPlaces": {
+      "breakfast": [
+        "部屋",
+        "個室"
+      ],
+      "dinner": [
+        "食事処",
+        "食堂"
+      ]
+    },
+    "attentionInfo": [
+      {
+        "id": 1,
+        "text": "注意事項1（楽天）"
+      },
+      {
+        "id": 2,
+        "text": "注意事項2（楽天）"
+      },
+      {
+        "id": 3,
+        "text": "注意事項3（楽天）"
+      },
+      {
+        "id": 4,
+        "text": "注意事項4（楽天）"
+      },
+      {
+        "id": 5,
+        "text": "注意事項5（楽天）"
+      },
+      {
+        "id": 6,
+        "text": "注意事項6（楽天）"
+      },
+      {
+        "id": 7,
+        "text": "注意事項7（楽天）"
+      },
+      {
+        "id": 8,
+        "text": "注意事項8（楽天）"
+      },
+      {
+        "id": 9,
+        "text": "注意事項9（楽天）"
+      },
+      {
+        "id": 10,
+        "text": "注意事項10（楽天）"
+      }
+    ],
+    "otherNotes": [
+      "PLSQL"
+    ],
+    "postalCode": "1000005",
+    "address": "東京都東京都千代田区丸の内１丁目2",
+    "largeArea": "japan",
+    "largeAreaName": "日本",
+    "middleArea": "tokyo",
+    "middleAreaName": "東京都",
+    "smallArea": "tokyo",
+    "smallAreaName": "東京２３区内",
+    "detailArea": null,
+    "detailAreaName": null,
+    "roomInfo": {
+      "numberOfGuestRooms": 104,
+      "amenities": [
+        "有料テレビ",
+        "インターネット接続(LAN形式)",
+        "インターネット接続(無線LAN形式)",
+        "インターネット接続(一部、LAN形式)",
+        "インターネット接続(一部、無線LAN形式)",
+        "ズボンプレッサー(貸出)",
+        "ベビーベッド"
+      ],
+      "accessibility": [
+        "車椅子可",
+        "貸出用車椅子",
+        "バリアフリー用トイレ",
+        "バリアフリールーム"
+      ]
+    },
+    "policyInfo": {
+      "cancelPolicies": [
+        {
+          "description": "連絡なしの不泊/不着 ：宿泊料金の１００％",
+          "penaltyPercentage": 100
+        },
+        {
+          "description": "当日　２時から　　　：宿泊料金の５０％　",
+          "penaltyPercentage": 50
+        },
+        {
+          "description": "前日　３時から　　　：宿泊料金の２０％　",
+          "penaltyPercentage": 20
+        },
+        {
+          "description": "２日前　４時から　　：宿泊料金の０％　　",
+          "penaltyPercentage": 0
+        },
+        {
+          "description": "３日前　５時から　　：宿泊料金の２０％　",
+          "penaltyPercentage": 20
+        },
+        {
+          "description": "４日前から　　　　　：宿泊料金の２０％　",
+          "penaltyPercentage": 20
+        },
+        {
+          "description": "５日前から　　　　　：宿泊料金の２０％　",
+          "penaltyPercentage": 20
+        },
+        {
+          "description": "６日前から　　　　　：宿泊料金の２０％　",
+          "penaltyPercentage": 20
+        },
+        {
+          "description": "７日前から　　　　　：宿泊料金の２０％　",
+          "penaltyPercentage": 20
+        },
+        {
+          "description": "１０日前から　　　　：宿泊料金の１０％　",
+          "penaltyPercentage": 10
+        }
+      ],
+      "checkinTime": "09:30",
+      "checkoutTime": "09:00",
+      "lastCheckinTime": "13:30",
+      "availableCreditCards": [
+        "VISA",
+        "JCB",
+        "American Express"
+      ],
+      "aboutCreditCardNote": "321",
+      "attentionInfo": [
+        {
+          "id": "noshow",
+          "text": "※宿泊プランや日毎に、別途ポリシーが設定されている場合があります。<br>\nプラン詳細ページ（空室カレンダー横等）と【予約手続画面（予約step）】にて不泊についてのポリシーをご確認ください。"
+        },
+        {
+          "id": "cancel",
+          "text": "※宿泊プランや日毎に、別途キャンセルポリシーが設定されている場合があります。<br>\nプラン詳細ページ（空室カレンダー横等）と【予約手続画面（予約step）】にて必ずキャンセルポリシーをご確認ください。"
+        }
+      ],
+      "mileage": null,
+      "point": null
+    },
+    "spotInfo": {
+      "leisureSpot": [
+        {
+          "description": "海水浴"
+        },
+        {
+          "description": "海釣り"
+        },
+        {
+          "description": "ゴルフ"
+        },
+        {
+          "description": "水族館"
+        },
+        {
+          "description": "農業公園"
+        }
+      ],
+      "nearSpot": [],
+      "popularSpot": [
+        {
+          "spot": {
+            "description": "東京駅",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13004777.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東京国際フォーラム",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002296.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "キッザニア東京",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13020030.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "ユナイテッド・シネマ豊洲",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13020380.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "丸の内仲通り",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13016590.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "水天宮",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002261.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "皇居外苑",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13004778.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "ソニービル",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002300.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "皇居東御苑",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13011503.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東京都現代美術館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002290.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "地下鉄博物館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002594.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "帝国劇場",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002519.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "晴海客船ターミナル",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005746.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "夢の島熱帯植物館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005736.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "相田みつを美術館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002607.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東京国立近代美術館フィルムセンター",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005529.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東京宝塚劇場",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13004895.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "靖国神社",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002364.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "和田倉橋",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002317.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "富岡八幡宮",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005825.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東京駅一番街",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13019321.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東劇",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010574.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "新橋演舞場",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005747.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "AKB48劇場",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13020342.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "最高裁判所",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13019546.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東京国立近代美術館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010778.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "朝日新聞東京本社",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13006064.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "三井記念美術館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13019472.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "蘭学事始地",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13006009.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "佃島渡船の碑",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13006010.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "いわて銀河プラザ",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010606.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "靖国神社の桜",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13018877.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "外濠公園の桜",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13018878.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "仙台堀川公園の桜",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13018889.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "辰巳の森緑道公園の桜",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13018890.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "江東区立若洲公園キャンプ場",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13012083.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "浜離宮朝日ホール",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13016887.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "神保町花月",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13020771.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "メイド倶楽部",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13020872.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東京都弘済会書籍部",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13020953.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "築地小劇場跡",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13006128.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "日本フライトセーフティ",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010003.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "永代橋",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13016981.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "シネカノン有楽町2丁目",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13021418.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "松之大廊下跡",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13016994.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東京アニメセンター",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13019657.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東京大神宮",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13018099.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "心行寺",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010291.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "円珠院",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010292.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東京銘品館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13021433.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "IHIものづくり館 アイミューズ",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13021480.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "スカイバス TOKYO",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13018174.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "法務省 旧本館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13018229.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東京水辺ライン シーサイドコース",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13012102.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "ソニー ショールーム",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13020262.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "銀座テアトルシネマ",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005745.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "銀座シネパトス",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005757.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "TEPCO銀座館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005772.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "TOHOシネマズシャンテ",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005780.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "柳森神社",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005994.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "明神男坂",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005996.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "谷崎潤一郎生誕の地",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13006004.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "住吉神社",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13006005.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "築地居留地跡",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13006007.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "北海道どさんこプラザ",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13018230.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "浅野内匠頭邸跡",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13006008.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "泰明小学校",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010538.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "博品館劇場",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010569.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "丸の内TOEI2",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010572.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "丸の内TOEI1",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010573.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "TOHOシネマズ 日劇",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010575.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "JAXAi",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13018743.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "浜離宮恩賜庭園",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13018832.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "かちどき 橋の資料館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13019173.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "秋葉原クロスフィールド",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13019329.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "丸の内ピカデリー1・2",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010576.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "丸の内ルーブル",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010577.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "丸の内ピカデリー3",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010578.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "TOHOシネマズ 有楽座",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010579.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "有楽町スバル座",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010580.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "TOHOシネマズ スカラ座",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010581.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "江東区深川江戸資料館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005802.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "もんじゃ屋形船",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13016627.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "霊巌寺",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005816.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "清澄庭園",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005822.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "明治座",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005829.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "ジュサブロー館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005830.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東京証券取引所",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002327.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "旧東京中央郵便局",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002380.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "岩波ホール",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002381.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "逓信総合博物館（ていぱーく）",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002593.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "浜離宮恩賜庭園",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002809.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "聖路加タワー展望室",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13004025.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "ボタンの博物館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13004035.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "明治大学博物館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13004063.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "出光美術館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002613.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "日枝神社",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002926.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "国会議事堂（参議院）",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002945.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "ニューオータニ美術館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002433.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "国立劇場",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002435.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "江戸川区自然動物園",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002436.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "日本銀行金融研究所 貨幣博物館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002295.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "本願寺築地別院（築地本願寺）",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002297.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "よみうりホール",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002490.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "日比谷公園野外大音楽堂",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002492.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "日本武道館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002494.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "日生劇場",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002496.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "銀行発祥の地",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13017761.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "菩提樹",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13017765.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "波除稲荷神社",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13017766.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "かちどきの渡し跡",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13017767.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "石川島灯台（人足寄場跡）",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13017768.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "山本海苔店",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13017776.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "お江戸日本橋亭",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005514.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "神田神社",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005516.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "丸の内 カフェ",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13017179.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "HOUSE OF SHISEIDO",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13017211.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "集英社ミュージアム",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13021875.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "土佐藩上屋敷跡",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/D13900001.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "土佐藩中屋敷跡",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/D13900002.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "千葉定吉道場跡（１）",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/D13900003.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "千葉定吉道場跡（２）",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/D13900004.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "玄武館跡",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/D13900005.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "桃井道場（志学館）跡",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/D13900006.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "佐久間象山邸跡",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/D13900007.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "越前福井藩邸跡",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/D13900008.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "幕府軍艦操練所跡",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/D13900010.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "法乗院",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13024171.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "ＳＮＡＣ",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13024180.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "アウトドア　スポーツクラブ　ＺＡＣ",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13025850.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "深川図書館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13023857.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "瀬川丸",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13016616.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "龍光院",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010293.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "深川稲荷神社　深川七福神　布袋尊",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13010294.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "成田山深川不動堂",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13005823.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "葛西海浜公園東なぎさ・西なぎさ",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13021727.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "深川東京モダン館",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13022227.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "辰巳パーキングエリア（第一）",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13024120.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "辰巳パーキングエリア（第二）",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13024121.html"
+          }
+        },
+        {
+          "spot": {
+            "description": "東京都葛西臨海水族園",
+            "url": "//kanko.travel.rakuten.co.jp/tokyo/spot/S13002656.html"
+          }
+        }
+      ],
+      "skiSpot": []
+    },
+    "imageItems": [
+      {
+        "category": "",
+        "categoryType": "DETAIL1",
+        "categoryName": "",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/HOTEL/31571/31571.jpg"
+      },
+      {
+        "category": "",
+        "categoryType": "DETAIL2",
+        "categoryName": "施設内写真2",
+        "videoId": "",
+        "fileName": "1234.jpg",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/HOTEL/31571/1234.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "1200039259",
+        "fileName": "Video Platformテスト用",
+        "description": "test",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200039259&type=0"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "",
+        "fileName": "あ",
+        "description": "あ",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/081364c1f3a865ad6a1393e767e337fa0e3254ea.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/9a0ff1303eaff8b4a06f899bb69abf4102a61632.82.1.26.2.jpeg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/914a45dbaf3064a3da646d9daf563740bef88661.82.1.26.2.jpeg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "",
+        "fileName": "devproxy-abolish テスト",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/2017c00700a225b058678bdaa85d626bedf9d2d1.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000002",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "1200007583",
+        "fileName": "onsen",
+        "description": "onsen",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200007583&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "1200034875",
+        "fileName": "Legacy Travel Upload",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200034875&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "1200038547",
+        "fileName": "SOK 20210108 test for Dynamic Delivery202101151322",
+        "description": "トラベル新・Video新の状態でアップロードし、トラベル管理画面で再生できるかを確認する。20210115132220",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038547&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "1200038445",
+        "fileName": "施設紹介",
+        "description": "施設紹介",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038445&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "1200036362",
+        "fileName": "テスト",
+        "description": "テスト",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200036362&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "1200038404",
+        "fileName": "飛行機",
+        "description": "サンプル動画",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038404&type=0"
+      },
+      {
+        "category": "00000004",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "1200004365",
+        "fileName": "2/1IE11movie1",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200004365&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "1200038515",
+        "fileName": "SOK 20201229 test for Dynamic Delivery",
+        "description": "トラベル旧・Video新の状態でアップロードし、トラベル管理画面で再生できるかを確認する。",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038515&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "",
+        "fileName": "テスト画像1",
+        "description": "テスト",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/70b09cc75050fe6e0604bc64c8f49c5042426d96.82.9.26.3.jpeg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "1200043160",
+        "fileName": "Test_Video_PD_1",
+        "description": "test",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043160&type=0"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "hotelinfo",
+        "categoryName": "",
+        "videoId": "1200043369",
+        "fileName": "",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043369&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200038407",
+        "fileName": "1202SAT",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038407&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "目指せフォトギャラリー400枚",
+        "description": "目指せフォトギャラリー400枚",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/984cde9c0275ec7ea1322723392a6f24776d91a1.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "testtest",
+        "description": "test",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/60b4ef409fa97e433fb89e658b552ab9d89b1dbc.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "名前も知らない扉です",
+        "description": "当たらない扉です",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/2c0570582db40498116107317f56cdf5679cffde.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "Kuma_panda",
+        "description": "kumapanda",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/6632e947edd6bc614aae2cf258cd3872926052fe.82.9.26.3.jpeg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "Panda_shiratori",
+        "description": "Panda_shiratori",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/3a0b87c67387a229da111ebaa00c4c6c8ebf0d36.82.9.26.3.jpeg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "safafafafa4244##",
+        "description": "42423srfserfsfsfsf##",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/e03ea1ba48519242b924ba23fdd67283dbccb317.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/2db9e407b5d38a0d39f9bc70aa32ddaae1b85288.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "safafafafa4244##",
+        "description": "42423srfserfsfsfsf##",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/49662228c262c414122ff2f79b589aea9f80dfd1.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "safafafafa4244##",
+        "description": "42423srfserfsfsfsf##",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/2472a0f3ccbec5ab9ba0252da91942390954eb10.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200043149",
+        "fileName": "test0810",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043149&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "テスト画像1",
+        "description": "テスト",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/70b09cc75050fe6e0604bc64c8f49c5042426d96.82.9.26.3.jpeg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200038547",
+        "fileName": "SOK 20210108 test for Dynamic Delivery202101151322",
+        "description": "トラベル新・Video新の状態でアップロードし、トラベル管理画面で再生できるかを確認する。20210115132220",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038547&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "SAT-test",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/37d353b31b7771f8f5edb56a4110045ef0faf09b.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200042733",
+        "fileName": "testvideo20221220",
+        "description": "テスト動画A",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200042733&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "LCM焼肉",
+        "description": "LCM焼肉",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/ea6901cc796ec811afadb6af6606bc5cf9916357.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200042725",
+        "fileName": "ono_test_1214",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200042725&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "test",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/73bbcbedd16fcadae6f08710b61ad1bfdcf69632.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "SAT-test",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/a346d4f6894ace95c17cf192045718512e8103c9.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200038603",
+        "fileName": "20210118 SOK DB復旧後確認用20210119174452",
+        "description": "20210119174452",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038603&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "devproxy-abolish テスト",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/2017c00700a225b058678bdaa85d626bedf9d2d1.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "safafafafa4244##",
+        "description": "42423srfserfsfsfsf##",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/978b550403e7d2bfc44bf27c57ba8cdc003ae051.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "test",
+        "description": "test",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/37826dec1e4fa4b4bcf58e0d23f81e7b6cc237ec.82.9.26.3.jpeg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "safafafafa4244##",
+        "description": "42423srfserfsfsfsf##",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/b43246c04cbe0cf23ed1b44588d0e030e16988f8.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "safafafafa4244##",
+        "description": "42423srfserfsfsfsf##",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/7b0ad7961f615d523c6faedbe13d15d2c53d928c.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "夜景",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/62638a4d025e4680ab28de2b5f7461fefaa37621.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "safafafafa4244##",
+        "description": "42423srfserfsfsfsf##",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/53ad333cc52b9fa96d4d38ea41151e657858577a.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200038591",
+        "fileName": "20210115 SOK新Ver再デプロイ後確認用動画",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038591&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "PANDAPANDA",
+        "description": "panda2",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/20188b7b405ef220d66ab43ad0d5a652f46e965a.82.9.26.3.gif"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "beachinv",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/4afceb9fba3e4356fd29433f0b64808f424b88bd.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200043424",
+        "fileName": "videoinv",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043424&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "Pooh",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/9d4e9b407740643ea23f45c10371d03c009ed4b4.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "right pic",
+        "description": "right pic",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/5a06de366207125cbdda7228986547446e85987c.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "middle pic",
+        "description": "middle pic",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/369af76e30d672dda80671d4cd2727c5d7b2c7e7.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "crab",
+        "description": "hotel crab pic",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/7386119c9fcf34dee56bc7ab0577e073c4a217e1.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "inv-image",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/edede586ef7bc656d109a7999ecfee829ce81468.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "inv-image",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/9a43f8af1edf8415d6c8c0dec3434dd766d04cb2.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "inv-image",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/506a550095a0f7ad0641594b20b337647c96bef6.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "invimage",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/d7621e24acafe657cd7718a0e200f19364fcc907.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "onotest01",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/20c646408635026d243a3b0be106f5d624bae1e4.82.9.26.3.jpe"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "onotest",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/46d0a901cd8c71da7b1950c530c37fa2606dc3f8.82.9.26.3.jpe"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "onotest_20230919",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/af1b91dc4694715cbb601f03adc1d3ccbb1795ec.82.9.26.3.jpeg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200039259",
+        "fileName": "Video Platformテスト用",
+        "description": "test",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200039259&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200038515",
+        "fileName": "SOK 20201229 test for Dynamic Delivery",
+        "description": "トラベル旧・Video新の状態でアップロードし、トラベル管理画面で再生できるかを確認する。",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038515&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200038445",
+        "fileName": "施設紹介",
+        "description": "施設紹介",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038445&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200034875",
+        "fileName": "Legacy Travel Upload",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200034875&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200036362",
+        "fileName": "テスト",
+        "description": "テスト",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200036362&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200038404",
+        "fileName": "飛行機",
+        "description": "サンプル動画",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200038404&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "FDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDAS",
+        "description": "FDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDASFDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDASFDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDASFDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDASFDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDASFDASFSDFSDFSDFASFDSSDAFSDFSDFSDFSDAFSDFSDAFSADFDAS",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/84895681926c34d6bcb916c2ab4feb73ada9493e.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200043439",
+        "fileName": "videoinv",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043439&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "1200043251",
+        "fileName": "NEw_video_group",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043251&type=0"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "crab1",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/2c7efb484a5fd277c040bb5cce6932e9f52568f1.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "crab3",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/bd3b0af2ac10597a8b61394a3c364dce06bee791.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "crab4",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/1efe189f5c59f146198434034467ce3634aea3e9.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "crab1",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/5c715da3b6cd1fa4342a33325d7e720c7033d13b.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "crab5",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/3ecba70779373988e4246e08060d8629705f4f24.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "crab2",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/cbe7f1b69ccdbb7f0c57538c5e9fac8928fa847d.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "crab7",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/0731c7b5fa6c76a7ddb80a3c257720e18be1bf80.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "crab5",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/2f4bf6cde989d3b6a078eb6f3114bcf4ba5eda0f.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000001",
+        "categoryType": "image_up",
+        "categoryName": "部屋",
+        "videoId": "",
+        "fileName": "crab6",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/b57e6c1119ac9ae18c04ddb541198a37ff008214.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000002",
+        "categoryType": "image_up",
+        "categoryName": "温泉",
+        "videoId": "",
+        "fileName": "#2 Photo",
+        "description": "explanation_in_media_description_nas",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/LARGE/5lvcNJ.jpeg"
+      },
+      {
+        "category": "00000002",
+        "categoryType": "image_up",
+        "categoryName": "温泉",
+        "videoId": "",
+        "fileName": "wenquan",
+        "description": "test",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/LARGE/veZ2VD.jpeg"
+      },
+      {
+        "category": "00000002",
+        "categoryType": "image_up",
+        "categoryName": "温泉",
+        "videoId": "1200007583",
+        "fileName": "onsen",
+        "description": "onsen",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200007583&type=0"
+      },
+      {
+        "category": "00000002",
+        "categoryType": "image_up",
+        "categoryName": "温泉",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/7b39b385ab785b2d1b87c34dab2c325fa845b4cb.82.1.26.2.gif"
+      },
+      {
+        "category": "00000002",
+        "categoryType": "image_up",
+        "categoryName": "温泉",
+        "videoId": "",
+        "fileName": "1234567890abcdefghij1234567890abcdefghij1234567890",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/977be824ebd270c9d15169cbf95cd3ce990542a0.82.1.26.2.gif"
+      },
+      {
+        "category": "00000002",
+        "categoryType": "image_up",
+        "categoryName": "温泉",
+        "videoId": "",
+        "fileName": "写真写真写真",
+        "description": "てすとてすとてすと",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/3cbd21f5abd572041f944ddefd11efd8a2df2307.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000002",
+        "categoryType": "image_up",
+        "categoryName": "温泉",
+        "videoId": "1200001900",
+        "fileName": "すみません文字更新しました。",
+        "description": "explanation_in_media_description",
+        "url": "http://img.travel.rakuten.co.jp/share/image_up/31571/LARGE/pnHyhF.jpeg"
+      },
+      {
+        "category": "00000002",
+        "categoryType": "image_up",
+        "categoryName": "温泉",
+        "videoId": "",
+        "fileName": "12345678901234567890123456789012345678901234567890",
+        "description": "test bmp image",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/581cd5eb71470bd3273e9317f6c02afbb823c701.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000003",
+        "categoryType": "image_up",
+        "categoryName": "風呂",
+        "videoId": "",
+        "fileName": "お風呂1",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/2468c765bdd0304b993bc7d504129b521d6bf432.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000003",
+        "categoryType": "image_up",
+        "categoryName": "風呂",
+        "videoId": "",
+        "fileName": "お風呂2",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/0db2e7b11d29e903ff6af8b8163f3f3f4a984fb7.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000004",
+        "categoryType": "image_up",
+        "categoryName": "食事",
+        "videoId": "1200004365",
+        "fileName": "2/1IE11movie1",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200004365&type=0"
+      },
+      {
+        "category": "00000004",
+        "categoryType": "image_up",
+        "categoryName": "食事",
+        "videoId": "",
+        "fileName": "Yakiniku",
+        "description": "Yakiniku",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/acbe637816ac2f6f3adc21708b10ba30020129b7.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000004",
+        "categoryType": "image_up",
+        "categoryName": "食事",
+        "videoId": "",
+        "fileName": "sirasira",
+        "description": "aaa",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/LARGE/YVMWYF.gif"
+      },
+      {
+        "category": "00000005",
+        "categoryType": "image_up",
+        "categoryName": "宿泊プラン",
+        "videoId": "1200004366",
+        "fileName": "2/1IE11movie2",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200004366&type=0"
+      },
+      {
+        "category": "00000005",
+        "categoryType": "image_up",
+        "categoryName": "宿泊プラン",
+        "videoId": "",
+        "fileName": "オタク",
+        "description": "オタク",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/ee0c7e3ba004240ee188ca10973563680fff2b94.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000005",
+        "categoryType": "image_up",
+        "categoryName": "宿泊プラン",
+        "videoId": "",
+        "fileName": "ono_test_20221214",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/1ae6508fd160b5c32ce703aef4259b189c6fad94.82.9.26.3.jpeg"
+      },
+      {
+        "category": "00000005",
+        "categoryType": "image_up",
+        "categoryName": "宿泊プラン",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/2748d94b2acafc6a213aa284dc8ff13283ac6188.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000005",
+        "categoryType": "image_up",
+        "categoryName": "宿泊プラン",
+        "videoId": "1200043176",
+        "fileName": "testtest",
+        "description": "test１",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043176&type=0"
+      },
+      {
+        "category": "00000005",
+        "categoryType": "image_up",
+        "categoryName": "宿泊プラン",
+        "videoId": "",
+        "fileName": "aaa_zhusu",
+        "description": "aaa",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/LARGE/V68yWd.gif"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "クリスマス",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/ea80e6fa8ad1793b8ef9e0c8cb3bb11934b6ecb5.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+        "description": "12313",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/LARGE/UM97Oa.jpeg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "test",
+        "description": "test",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/LARGE/ljxC7e.gif"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "テスト更新",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/a858f147236cf8a0ac515357e757bdc168304fc7.82.1.26.2.jpeg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": " ",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/a39926f74fc56abef5ccc0d91f77e884e3d69bb4.82.1.26.2.jpeg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "あ",
+        "description": "あ",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/081364c1f3a865ad6a1393e767e337fa0e3254ea.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "1200001898",
+        "fileName": "13.mp4",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200001898&type=0"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/258f0f1f277e52832cc3322a635baa255a6dccd6.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/1931f173b7c7ef02e47468ac75ba442092f9fd31.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/f85c69ce7a86a115c8e2e73c43c68150548ef484.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "あ",
+        "description": "あ",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/3c7a26fb9fbc3c906a312e5ec7db6ae784c8a195.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/4afcc6f9c63497f10a0287964d574ac2797be3e3.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "1200042721",
+        "fileName": "NEW TEST FW UPD",
+        "description": "NEW TEST FW UPD",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200042721&type=0"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "PANDA",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/76a27ad324d3d8ee7d73e0dce36a9b87f1ce719c.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "PANDA２",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/31cd82210663f0678849aa906a7bb4c1cf78cb92.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/f1003196396b9affe11586788d48183e1df828c5.82.1.26.2.jpeg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/a36684d1ff1b64b8e5779dbd7f1181b26dedfd04.82.1.26.2.jpeg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "1200043369",
+        "fileName": "",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043369&type=0"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/3ee915ec9e7154db8c3d9770e4eea3542911117d.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "1200043263",
+        "fileName": "",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043263&type=0"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/269efa7c26a94ba3e50eff4096054293b0d5b954.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/b449bbdd9bd677f4e694cc2349afc6a410f24d48.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/75af97f8ccbb1d8aa77fe6c1da0369ca72b31b88.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/587964fd9d929624020a92980a72ef0207e3ea47.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/914a45dbaf3064a3da646d9daf563740bef88661.82.1.26.2.jpeg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/ad8f08136a09a3ba9b693b8857f74028e4fb5fb6.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "1200001885",
+        "fileName": "1.3gp",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200001885&type=0"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "1200001793",
+        "fileName": "Wildlife.wmv",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200001793&type=0"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "1200001789",
+        "fileName": "Wildlife.wmv",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200001789&type=0"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": " ",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/f75729245a19ce80b697c4125b61a57a2ff43ad6.82.1.26.2.jpeg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/0364a927e8686fb0412e82b76dc7564686974d05.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/715f9a3b3a56e7e690f80fd6c10ca19dc9ac621f.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "1200043365",
+        "fileName": "",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043365&type=0"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "1200043364",
+        "fileName": "",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043364&type=0"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "1200043262",
+        "fileName": "",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043262&type=0"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/dd19fe4a08668bb035af861ca3060070cfe99b41.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/fa650172103ac68d783e1ea931b3fff4047f79c8.82.9.26.3.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/9a0ff1303eaff8b4a06f899bb69abf4102a61632.82.1.26.2.jpeg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/dd499632e91f6d5c6c95558e41c6cda455585d10.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/29db6074809ef443191dacd285188eff4fc416f6.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/930f5eb1ee06ccb1e90203128138713c84441f11.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/3766df7961ac86f8f844afd845ab674f5196654f.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/5b09ee861125f4280ccc14dc9872fe0bc8c7ea58.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/73da3596945759ac0db171873fde34579c22621f.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/32dc5bc64488d30a01722fc64f8a227a89cd400e.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/72537177a260397fafb523cfc11f5b07e31719ab.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/fee3f190d9e534ad98411786eea0f652d7d27606.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/44aae0bde2fd618545e94fbbcfe55977c4a84ee1.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/1e8a384c3417135e94e3afdee9c31eec06067dad.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/1c5ac32e71ac84f9d5b7c75ed08b5e140c7d5745.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/a0c5a97976c587861fe89fa6611fde582bc5ab23.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/451e77e3bff1611beb175a41088021e27bc8340f.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/a62d42851d41f95730731083eb063ca0dd438aa3.82.1.26.2.jpg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": " ",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/a5baa919effa9999a35fa5a65161d3c7ad70f5b6.82.1.26.2.jpeg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": " ",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/38025afdaf376422084f94dab73a2ed53991cf56.82.1.26.2.jpeg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": " ",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/b0d72c6fd3b50875a75a5dc1cde3b16c3422b6dd.82.1.26.2.jpeg"
+      },
+      {
+        "category": "00000000",
+        "categoryType": "image_up",
+        "categoryName": "その他",
+        "videoId": "",
+        "fileName": " ",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/f4d5eddd6cedaa201abae5576dfea6e89e439a6b.82.1.26.2.jpeg"
+      },
+      {
+        "category": "10000021",
+        "categoryType": "image_up",
+        "categoryName": "test083001",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/4aebb9a63fbd99fdfff9ffcdeff62144ef420182.82.9.26.3.jpg"
+      },
+      {
+        "category": "10000021",
+        "categoryType": "image_up",
+        "categoryName": "test083001",
+        "videoId": "",
+        "fileName": "",
+        "description": "",
+        "url": "https://trvimg.r10s.jp/share/image_up/31571/origin/13787ee71f18ce4dc6ee8c278ca6970a2f5ebf55.82.9.26.3.jpg"
+      },
+      {
+        "category": "10000021",
+        "categoryType": "image_up",
+        "categoryName": "test083001",
+        "videoId": "1200043430",
+        "fileName": "videoinvcorev2",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043430&type=0"
+      },
+      {
+        "category": "10000022",
+        "categoryType": "image_up",
+        "categoryName": "Media",
+        "videoId": "1200043440",
+        "fileName": "invvid",
+        "description": "",
+        "url": "//api.cms.rakuten.co.jp/proxy/image/?movie_id=1200043440&type=0"
+      }
+    ],
+    "petInfo": {
+      "description": null,
+      "pictures": null,
+      "acceptablePetTypes": null,
+      "stayLocations": [],
+      "otherStayLocations": null,
+      "roomType": null,
+      "fee": null,
+      "isChargeFree": null,
+      "facilities": null,
+      "terms": [],
+      "otherTerms": null,
+      "acceptableArea": [],
+      "otherAcceptableArea": null,
+      "requiredItems": [],
+      "otherRequiredItems": null,
+      "aroundFacilty": null,
+      "mascotAnimal": null,
+      "attention": null,
+      "remarks": null
+    },
+    "spaInfo": {
+      "title": null,
+      "description": null,
+      "pictures": null,
+      "types": [
+        "温泉",
+        "大浴場",
+        "天然温泉",
+        "人工温泉"
+      ],
+      "qualities": [
+        "硫黄塩泉",
+        "カルシウム硫酸塩泉",
+        "硫酸温泉"
+      ],
+      "efficacies": [
+        "アトピー・湿疹",
+        "胃腸病",
+        "痛風"
+      ],
+      "views": null,
+      "bathTime": null
+    },
+    "ratingInfo": {
+      "count": 7750,
+      "average": 5.0,
+      "locationAverage": 0.0,
+      "roomAverage": 0.0,
+      "mealAverage": 0.0,
+      "bathAverage": 0.0,
+      "serviceAverage": 0.0,
+      "amenityAveage": 0.0
+    },
+    "faqs": [
+      {
+        "faqId": 2,
+        "question": "駐車場はありますか？",
+        "answer": "駐車場は下記をご確認ください。<br>ビーチは目の前！",
+        "lastUpdated": "2024/05/23"
+      },
+      {
+        "faqId": 30,
+        "question": "RTRV確認",
+        "answer": "RTRV確認<br>りんく",
+        "lastUpdated": "2023/09/13"
+      },
+      {
+        "faqId": 1,
+        "question": "アクセス情報を教えてください。",
+        "answer": "交通アクセスは下記をご確認ください。<br>xxxxJR日豊本線日南駅よりバス10分、車5分_TEST UPDATE",
+        "lastUpdated": "2024/05/28"
+      },
+      {
+        "faqId": 27,
+        "question": "フェリクスのテストです。駐輪場はありますか？",
+        "answer": "フェリクスのテストです。駐輪場はありますか？",
+        "lastUpdated": "2023/06/22"
+      },
+      {
+        "faqId": 28,
+        "question": "二番フェリクスのテストです。駐輪場はありますか？",
+        "answer": "二番フェリクスのテストです。駐輪場はありますか？？",
+        "lastUpdated": "2023/06/22"
+      },
+      {
+        "faqId": 29,
+        "question": "三番フェリクスのテストです。駐輪場はありますか？",
+        "answer": "三番フェリクスのテストです。駐輪場はありますか？",
+        "lastUpdated": "2023/06/22"
+      },
+      {
+        "faqId": 3,
+        "question": "チェックイン時間・チェックアウト時間を教えてください。",
+        "answer": "チェックイン09:30〜13:30、チェックアウト09:00となっております。<br>（宿泊プランによって異なる場合がございますので、詳細は各宿泊プランをご確認ください。）",
+        "lastUpdated": "2024/05/28"
+      },
+      {
+        "faqId": 7,
+        "question": "小さい子どもを連れての宿泊は？",
+        "answer": "添い寝をされるお子様（未就学児）<a href=\"https://travel.rakuten.co.jp/\">のご宿泊料金は無料です。</a>ベビーベッドをご利用される場合には有料にてご用意いたしております。<br><br>添い寝をされる場合<br>ツインルームの場合、ベッド1台を壁側に隙間なく付け、壁側にお子様がおやすみいただくことが可能でございます。<br>また、ベッドガードをご希望の場合は無料でご用意いたします。<br>ベッドガードサイズ129cm44cm44c　※対象年齢：18ヵ月～5歳頃まで<br>ただし、台数に限りがございますのでご用意いたしかねる場合もございます。<br>ご利用の場合は事前に下記宿泊予約係までご連絡だきますようお願い申し上げます。<br>宿泊予約係：TEL0112613324直通<br><br>ベビーベットご利用の場合<br>サイズ：幅80cm長さ130cm高さ90cm、0～2歳児用を1泊1600税・サ込でご用意しております。<br>ただし、台数に限りがございますのでご用意いたしかねる場合もございます。<br>ご利用の場合は事前に下記宿泊予約係までご連絡いただきますようお願い申し上げます。<br>宿泊予約係：TEL0112613324　直通<br><br>※ベビーベッドのご用意が出来ない部屋タイプもございます。予めご了承ください。",
+        "lastUpdated": "2022/09/05"
+      }
+    ],
+    "premiumType": 0,
+    "memberRankBenefits": null,
+    "invoiceQualified": true,
+    "sdgs": {
+      "certification": "",
+      "hotelDescr": " TQABUG-15010 test",
+      "firstFeatures": []
+    },
+    "hmtwntaxCert": false,
+    "basicAddInfo": [],
+    "facilitiesAndServicesAddInfo": [],
+    "isRMPActive": true,
+    "rmpUrl": "https://stg-rmesse.commerce.rakuten.co.jp/login?serviceId=1003&serviceAttribute=106&recipientId=31571&categoryId=1",
+    "hotelMembershipExchange": 10,
+    "rmpactive": true,
+    "isPreferred": false,
+    "isRMPMyPageActive": true
+  }
+}

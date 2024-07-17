@@ -1,0 +1,71 @@
+{
+    "body": {
+        "planBasicInfo": {
+            "freeNames": [
+                {
+                    "lang": "ja_JP",
+                    "content": "テストプラン1号　test now UP",
+                    "service": "1"
+                }
+            ],
+            "paymentSettings": [
+                {
+                    "paymentType": "1",
+                    "salesTarget": "JAPAN"
+                }
+            ],
+            "planDescs": [
+                {
+                    "lang": "ja_JP",
+                    "content": "テストのためのプランです。大変お得になっております。泊まらないと損です。DPやTYMSはありません。You should stay!",
+                    "service": "1"
+                }
+            ],
+            "limitedNights": {
+                "min": 2,
+                "max": 55
+            },
+            "bookingPeriod": {
+                "startDate": "2024-06-30T00:00:00.000+0900",
+                "startTime": "00:00",
+                "endDate": "2024-06-30T00:00:00.000+0900",
+                "endTime": "23:59"
+            },
+            "stayingPeriod": {
+                "startDate": "2024-06-30T00:00:00.000+0900",
+                "endDate": "2024-06-30T00:00:00.000+0900"
+            },
+            "bookingAcceptablePeriod": {
+                "startCondBeforeCheckin": {
+                    "noOfDays": 20,
+                    "time": 12
+                },
+                "endCondBeforeCheckin": {
+                    "noOfDays": 1,
+                    "time": 17
+                }
+            },
+            "acceptableCheckinTime": {
+                "fromTime": "15:30",
+                "toTime": "24:00"
+            },
+            "img": [],
+            "target": [
+                {
+                    "salesTarget": "JAPAN",
+                    "service": "1"
+                }
+            ],
+            "salesLimit": 10,
+            "salesLimitFlag": "1"
+        },
+        "planId": #(parseInt(planId)),
+        "category": "1"
+    },
+    "header": {
+        "arg": {
+            "apiClientId": "hmsari"
+        },
+        "status": "0"
+    }
+}

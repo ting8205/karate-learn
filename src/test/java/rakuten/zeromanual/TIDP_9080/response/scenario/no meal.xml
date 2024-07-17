@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OTA_ResRetrieveRS xmlns="http://www.opentravel.org/OTA/2003/05" EchoToken="3" Version="5.0" PrimaryLangID="jpn" MoreIndicator="false">
+    <Success/>
+    <ReservationsList>
+        <HotelReservation ResStatus="Book">
+            <UniqueID Type="14" ID="22315029474511"/>
+            <RoomStays>
+                <RoomStay>
+                    <RoomTypes>
+                        <RoomType RoomTypeCode="14123457092279">
+                            <RoomDescription LastModifierID="2024-05-20T15:03:45.197517"/>
+                        </RoomType>
+                    </RoomTypes>
+                    <RatePlans>
+                        <RatePlan RatePlanCode="15123457042075">
+                            <RatePlanDescription LastModifierID="2024-05-20T15:04:25.110398"/>
+                        </RatePlan>
+                    </RatePlans>
+                    <RoomRates>
+                        <RoomRate>
+                            <Rates>
+                                <Rate EffectiveDate="2024-05-28">
+                                    <Base AmountAfterTax="1200"/>
+                                    <Total AmountAfterTax="1200"/>
+                                    <TPA_Extensions>
+                                        <Unit_Of_Usage Price_for="Per Person" Status="Booked"/>
+                                    </TPA_Extensions>
+                                </Rate>
+                                <Rate EffectiveDate="2024-05-28">
+                                    <Base AmountAfterTax="1200"/>
+                                    <Total AmountAfterTax="1200"/>
+                                    <TPA_Extensions>
+                                        <Unit_Of_Usage Price_for="Per Person" Status="Booked"/>
+                                    </TPA_Extensions>
+                                </Rate>
+                            </Rates>
+                        </RoomRate>
+                        <RoomRate>
+                            <Rates>
+                                <Rate EffectiveDate="2024-05-27">
+                                    <Base AmountAfterTax="1200"/>
+                                    <Total AmountAfterTax="1200"/>
+                                    <TPA_Extensions>
+                                        <Unit_Of_Usage Price_for="Per Person" Status="Booked"/>
+                                    </TPA_Extensions>
+                                </Rate>
+                                <Rate EffectiveDate="2024-05-27">
+                                    <Base AmountAfterTax="1200"/>
+                                    <Total AmountAfterTax="1200"/>
+                                    <TPA_Extensions>
+                                        <Unit_Of_Usage Price_for="Per Person" Status="Booked"/>
+                                    </TPA_Extensions>
+                                </Rate>
+                            </Rates>
+                        </RoomRate>
+                        <RoomRate>
+                            <Rates>
+                                <Rate EffectiveDate="2024-05-29">
+                                    <Base AmountAfterTax="1200"/>
+                                    <Total AmountAfterTax="1200"/>
+                                    <TPA_Extensions>
+                                        <Unit_Of_Usage Price_for="Per Person" Status="Booked"/>
+                                    </TPA_Extensions>
+                                </Rate>
+                                <Rate EffectiveDate="2024-05-29">
+                                    <Base AmountAfterTax="1200"/>
+                                    <Total AmountAfterTax="1200"/>
+                                    <TPA_Extensions>
+                                        <Unit_Of_Usage Price_for="Per Person" Status="Booked"/>
+                                    </TPA_Extensions>
+                                </Rate>
+                            </Rates>
+                        </RoomRate>
+                    </RoomRates>
+                    <TimeSpan Start="2024-05-27" End="2024-05-30"/>
+                    <Total AmountAfterTax="7200" CurrencyCode="JPY">
+                        <Taxes>
+                            <Tax>
+                                <TaxDescription LastModifierID="196949f9-cad4-40a9-8ae7-04f650b1cce3"/>
+                            </Tax>
+                        </Taxes>
+                        <TPA_Extensions>
+                            <AmountAfterDeduction AmountAfterTax="7200"/>
+                            <OriginalAmount AmountAfterTax="7200"/>
+                        </TPA_Extensions>
+                    </Total>
+                    <BasicPropertyInfo HotelCode="10123457004020"/>
+                    <TPA_Extensions>
+                        <Payments>
+                            <Payment AmountAfterTax="7200" CurrencyCode="JPY" Method="Credit Card"/>
+                        </Payments>
+                        <Notices>
+                            <Notice Notice_ID="965c545d-e45d-4f62-8d1a-9d035f0a6854" Object_Type="Provider">
+                                <Text_Notice>条件と注意事項</Text_Notice>
+                            </Notice>
+                            <Notice Notice_ID="6792e75f-42c5-4490-8197-bf99e9344e98" Object_Type="Provider">
+                                <Text_Notice>顧客への質問</Text_Notice>
+                            </Notice>
+                        </Notices>
+                    </TPA_Extensions>
+                    <BookingRules>
+                        <BookingRule>
+                            <CancelPenalties>
+                                <CancelPenalty End="2024-05-27T00:00:00+09:00">
+                                    <Deadline AbsoluteDeadline="00:00" OffsetTimeUnit="Day" OffsetUnitMultiplier="1" OffsetDropTime="BeforeArrival"/>
+                                    <AmountPercent BasisType="Nights" Percent="80"/>
+                                </CancelPenalty>
+                                <CancelPenalty End="2024-05-25T23:59:00+09:00">
+                                    <AmountPercent BasisType="Nights" Percent="0"/>
+                                </CancelPenalty>
+                                <CancelPenalty>
+                                    <Deadline OffsetDropTime="AfterArrival"/>
+                                    <AmountPercent BasisType="Nights" Percent="100"/>
+                                </CancelPenalty>
+                            </CancelPenalties>
+                        </BookingRule>
+                    </BookingRules>
+                </RoomStay>
+            </RoomStays>
+            <ResGuests>
+                <ResGuest>
+                    <Profiles>
+                        <ProfileInfo>
+                            <Profile>
+                                <Customer>
+                                    <PersonName>
+                                        <GivenName>tingting</GivenName>
+                                        <Surname>liu</Surname>
+                                    </PersonName>
+                                </Customer>
+                            </Profile>
+                        </ProfileInfo>
+                        <ProfileInfo>
+                            <Profile>
+                                <Customer/>
+                            </Profile>
+                        </ProfileInfo>
+                    </Profiles>
+                    <GuestCounts>
+                        <GuestCount AgeQualifyingCode="10" Count="2"/>
+                    </GuestCounts>
+                </ResGuest>
+            </ResGuests>
+            <ResGlobalInfo>
+                <Memberships>
+                    <Membership ProgramCode="RAKUTEN" BonusCode="Standard" AccountID="yGBL99aq-w99xdt05Za1fQ"/>
+                </Memberships>
+                <HotelReservationIDs>
+                    <HotelReservationID ResID_Type="14" ResID_Source="MEMBER" ResID_SourceContext="21315029494343" ResID_Date="2024-05-20T07:09:31.822482"/>
+                </HotelReservationIDs>
+                <Profiles>
+                    <ProfileInfo>
+                        <Profile>
+                            <Customer>
+                                <PersonName>
+                                    <GivenName>tingting</GivenName>
+                                    <Surname>liu</Surname>
+                                </PersonName>
+                                <Telephone PhoneNumber="+1-18312365482"/>
+                            </Customer>
+                        </Profile>
+                    </ProfileInfo>
+                </Profiles>
+            </ResGlobalInfo>
+        </HotelReservation>
+    </ReservationsList>
+</OTA_ResRetrieveRS>

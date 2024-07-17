@@ -1,0 +1,92 @@
+{
+    "status": "success",
+    "results": {
+        "hotelNo": 31571,
+        "inventories": [
+            {
+                "date": "2024-05-30",
+                "allotment": 3046,
+                "reservation": 1,
+                "totalReservations": 1
+            },
+            {
+                "date": "2024-05-31",
+                "allotment": 3046,
+                "reservation": 0,
+                "totalReservations": 0
+            },
+            {
+                "date": "2024-06-01",
+                "allotment": 3146,
+                "reservation": 0,
+                "totalReservations": 0
+            },
+            {
+                "date": "2024-06-02",
+                "allotment": 3146,
+                "reservation": 0,
+                "totalReservations": 0
+            },
+            {
+                "date": "2024-06-03",
+                "allotment": 3146,
+                "reservation": 1,
+                "totalReservations": 1
+            },
+            {
+                "date": "2024-06-04",
+                "allotment": 3146,
+                "reservation": 1,
+                "totalReservations": 1
+            },
+            {
+                "date": "2024-06-05",
+                "allotment": 3146,
+                "reservation": 2,
+                "totalReservations": 2
+            },
+            {
+                "date": "2024-06-06",
+                "allotment": 3146,
+                "reservation": 3,
+                "totalReservations": 3
+            },
+            {
+                "date": "2024-06-07",
+                "allotment": 3146,
+                "reservation": 0,
+                "totalReservations": 0
+            },
+            {
+                "date": "2024-06-08",
+                "allotment": 3146,
+                "reservation": 0,
+                "totalReservations": 0
+            },
+            {
+                "date": "2024-06-09",
+                "allotment": 3146,
+                "reservation": 1,
+                "totalReservations": 1
+            },
+            {
+                "date": "2024-06-10",
+                "allotment": 3146,
+                "reservation": 1,
+                "totalReservations": 1
+            },
+            {
+                "date": "2024-06-11",
+                "allotment": 3146,
+                "reservation": 1,
+                "totalReservations": 1
+            },
+            {
+                "date": "2024-06-12",
+                "allotment": 3146,
+                "reservation": 1,
+                "totalReservations": 1
+            }
+        ]
+    }
+}

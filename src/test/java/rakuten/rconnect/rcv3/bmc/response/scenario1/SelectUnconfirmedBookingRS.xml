@@ -1,0 +1,13 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <ns2:SelectUnconfirmedBookingRS xmlns:ns2="http://travel.rakuten.co.jp/rconnect/schemas">
+            <ns2:result>
+                <ns2:status>0</ns2:status>
+            </ns2:result>
+            <ns2:hotelNo>#(hotelId)</ns2:hotelNo>
+            <ns2:numberOfBookingData>#(numberOfBookingData)</ns2:numberOfBookingData>
+            <ns2:sessionId>#string</ns2:sessionId>
+        </ns2:SelectUnconfirmedBookingRS>
+    </soapenv:Body>
+</soapenv:Envelope>
